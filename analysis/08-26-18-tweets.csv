@@ -1,0 +1,550 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,"Sen. John McCain: ""What greater cause could we hope to serve than helping keep America the strong, aspiring, inspir… https://t.co/T2m8imd2JF",Mon Aug 27 05:45:00 +0000 2018,0.872,0.405,0.595,0.0
+1,Fox News,Hawaii's team celebrates together after their 3-0 win over South Korea in the Little League World Series Championsh… https://t.co/ieZAae1oYm,Mon Aug 27 05:38:00 +0000 2018,0.8176,0.306,0.694,0.0
+2,Fox News,".@RealCandaceO: ""Liberalism to me means bondage and conservatism means freedom. The freedom to choose, the freedom… https://t.co/WB71R9lEKw",Mon Aug 27 05:30:00 +0000 2018,0.8555,0.359,0.641,0.0
+3,Fox News,.@FBI swarms family home of Jacksonville Landing gunman David Katz https://t.co/IfCWLIW952,Mon Aug 27 05:23:00 +0000 2018,0.0,0.0,1.0,0.0
+4,Fox News,".@WillieNelson: ""I enjoy the audience, I enjoy the fans. You know, I like the attention— who wouldn't?"" #OBJECTified https://t.co/JRKfg8hYGB",Mon Aug 27 05:15:00 +0000 2018,0.836,0.389,0.611,0.0
+5,Fox News,"A makeshift memorial filled with flowers, candles and pictures is set up outside of @SenJohnMcCain’s office in Phoe… https://t.co/aj1dpZLaOK",Mon Aug 27 05:07:00 +0000 2018,0.0,0.0,1.0,0.0
+6,Fox News,".@KatiePavlich: ""Conservatism to me is limited government, liberty and sticking to the Constitution and realizing t… https://t.co/zUZIOU7WV9",Mon Aug 27 05:00:00 +0000 2018,0.3612,0.167,0.739,0.094
+7,Fox News,MS-13 member in Virginia pleads guilty to murder for hacking man to death with machete https://t.co/ieV4aXxBtU,Mon Aug 27 04:53:00 +0000 2018,-0.9081,0.0,0.533,0.467
+8,Fox News,".@RealCandaceO on @realDonaldTrump: ""I think that what he did in this country was the most necessary thing by killi… https://t.co/may38XX0JZ",Mon Aug 27 04:45:00 +0000 2018,0.0,0.0,1.0,0.0
+9,Fox News,".@Johnny_Joey, a retired Marine Corps bomb technician who lost both of his legs in a 2010 IED explosion, reflected… https://t.co/A3dmbzV6ig",Mon Aug 27 04:38:00 +0000 2018,-0.6705,0.0,0.744,0.256
+10,Fox News,".@LisaMarieBoothe on Kavanaugh hearing: ""The changes to the judiciary are going to be lasting legacy of President… https://t.co/OSOM6NXcpK",Mon Aug 27 04:30:00 +0000 2018,0.0,0.0,1.0,0.0
+11,Fox News,"North Carolina mom in 'disbelief' after son, 10, punished for calling teacher 'ma'am' https://t.co/Z8oqZ63bGh",Mon Aug 27 04:23:00 +0000 2018,-0.4588,0.0,0.812,0.188
+12,Fox News,"John McCain: ""I don't mind a good fight. For reasons known only to God, I've had quite a few tough ones in my life.… https://t.co/SsCVTbeEOF",Mon Aug 27 04:15:00 +0000 2018,0.0257,0.156,0.692,0.152
+13,Fox News,A woman hugs her husband for the first time in nine months since he was deployed to Iraq at Jackson Barracks in New… https://t.co/GoqA9QcpVQ,Mon Aug 27 04:08:00 +0000 2018,0.4939,0.127,0.873,0.0
+14,Fox News,".@KenPaxtonTX: ""We've had over 600,000 crimes committed by illegals since 2011. Over 1200 homicides. We've had huma… https://t.co/Tu1oIifiHM",Mon Aug 27 04:01:00 +0000 2018,0.2732,0.11,0.89,0.0
+15,Fox News,McCain's former colleague Kyl says late senator was ‘conscience of the Senate’ https://t.co/7OsyMs3UhT,Mon Aug 27 03:53:00 +0000 2018,0.0,0.0,1.0,0.0
+16,Fox News,Everett Alvarez: “[@SenJohnMcCain] always really felt this way that his service to country and what was right for t… https://t.co/60kv8CoU9M,Mon Aug 27 03:45:00 +0000 2018,0.0,0.0,1.0,0.0
+17,Fox News,"Last night, former President @BarackObama, who ran against John McCain for the presidency in 2008, said that Americ… https://t.co/xPUoDcMhiX",Mon Aug 27 03:38:00 +0000 2018,0.0,0.0,1.0,0.0
+18,Fox News,"China ride-hailing giant Didi Chuxing suspends carpooling service after woman raped, killed by driver https://t.co/ul7cD9nJA1",Mon Aug 27 03:31:00 +0000 2018,-0.8779,0.0,0.588,0.412
+19,Fox News,".@KatiePavlich: ""America has always prevailed. It is the greatest country the world has ever known. I always have f… https://t.co/JqmvWYVKrI",Mon Aug 27 03:24:01 +0000 2018,0.6369,0.189,0.811,0.0
+20,CNN,"President Trump is right. His trade war with China is causing a huge problem with North Korea, writes YJ Fischer fo… https://t.co/SFxd1fxwYM",Mon Aug 27 05:30:07 +0000 2018,-0.6486,0.086,0.669,0.245
+21,CNN,5.9 magnitude earthquake rattles western Iran https://t.co/ICWgOpOo1f https://t.co/XM74a5pC5R,Mon Aug 27 05:00:13 +0000 2018,0.0,0.0,1.0,0.0
+22,CNN,"Trump's presidency as TV series will be binge-worthy, writes Dean Obeidallah for @CNNOpinion https://t.co/uwJdrDAUlZ https://t.co/XONGCcu7Ea",Mon Aug 27 04:30:07 +0000 2018,0.0,0.0,1.0,0.0
+23,CNN,"This ""hovering"" backpack claims it'll help your back, neck, knees and ankles take up to 86% less punishment… https://t.co/U1ChdNpczb",Mon Aug 27 04:00:19 +0000 2018,0.4019,0.13,0.87,0.0
+24,CNN,Pope Francis speaks to thousands at Sunday Mass in Dublin amid sex abuse scandal https://t.co/TGxyNgqEjh https://t.co/GSh9sMFXLx,Mon Aug 27 03:30:08 +0000 2018,-0.7964,0.0,0.664,0.336
+25,CNN,Afghan President Ashraf Ghani accepted the resignation of his national security adviser but refused the resignation… https://t.co/ESRtKU8onW,Mon Aug 27 03:00:14 +0000 2018,-0.2846,0.157,0.63,0.213
+26,CNN,Runners across the US dedicate #MilesForMollie to show they're not afraid https://t.co/GnyxyePTrS https://t.co/V385mLlhAl,Mon Aug 27 02:45:04 +0000 2018,0.0,0.0,1.0,0.0
+27,CNN,Trump went against the advice of senior aides to issue an official White House statement praising Sen. John McCain… https://t.co/dGVkIBPGPW,Mon Aug 27 02:44:04 +0000 2018,0.5423,0.156,0.844,0.0
+28,CNN,Zimbabwe inaugurates a President for the second time in 9 months https://t.co/qrmKBwE0Yo https://t.co/8L43x9QWTx,Mon Aug 27 02:30:11 +0000 2018,0.0,0.0,1.0,0.0
+29,CNN,"A gunman killed two people and wounded 9 others at a video game tournament in Jacksonville, Florida, sheriff says.… https://t.co/26HoM83OFL",Mon Aug 27 02:15:07 +0000 2018,-0.6705,0.0,0.78,0.22
+30,CNN,Former Vatican official calls for Pope's resignation amid sex abuse scandal https://t.co/2OvSfAYpRA https://t.co/Vkbvqc5SE6,Mon Aug 27 02:00:08 +0000 2018,-0.8519,0.0,0.518,0.482
+31,CNN,Interior Minister Matteo Salvini facing investigation as migrants in Italy finally allowed to disembark… https://t.co/0xczcJjuhs,Mon Aug 27 01:30:05 +0000 2018,0.0,0.0,1.0,0.0
+32,CNN,Here's what you need to know to start your week smart https://t.co/eWFgnhD3Hw https://t.co/3kuLGLmwoH,Mon Aug 27 01:15:00 +0000 2018,0.4019,0.184,0.816,0.0
+33,CNN,German racing driver Sebastian Vettel wins Belgian GP after avoiding huge opening corner crash… https://t.co/I34jHBgk85,Mon Aug 27 01:00:06 +0000 2018,0.5574,0.294,0.588,0.118
+34,CNN,A man bolted toward Jay-Z and Beyoncé at their Atlanta show. He didn't get far. https://t.co/J41OthD9MW https://t.co/ilFs9Xgyn9,Mon Aug 27 00:45:03 +0000 2018,0.0,0.0,1.0,0.0
+35,CNN,The government just made it easier for workers to own a piece of their employer https://t.co/s8c6Duy2jM https://t.co/Q7xOvjg4ji,Mon Aug 27 00:30:11 +0000 2018,0.4215,0.157,0.843,0.0
+36,CNN,"ISIS leader in Afghanistan killed in airstrike, US says https://t.co/5AlZguDLaf https://t.co/DlswsD5vSJ",Mon Aug 27 00:15:07 +0000 2018,-0.6705,0.0,0.69,0.31
+37,CNN,"They pledge. Get hazed. The cycle continues.
+
+How Greek life perpetuates an ""environment of fear""… https://t.co/cZuCv4hUpt",Mon Aug 27 00:00:00 +0000 2018,0.0,0.0,1.0,0.0
+38,CNN,How Arizona will fill John McCain's seat — and who might fill it https://t.co/CrJoUrv8J7 https://t.co/6Jy9MOf1uQ,Sun Aug 26 23:45:00 +0000 2018,0.0,0.0,1.0,0.0
+39,CNN,"Former White House communications director Anthony Scaramucci says President Trump ""would have a nightmare on his h… https://t.co/8VwfyR19Ss",Sun Aug 26 23:30:01 +0000 2018,0.0,0.0,1.0,0.0
+40,BBC News (World),North Korea grants humanitarian release to Japanese tourist https://t.co/PNkDSuhbAg,Mon Aug 27 02:39:28 +0000 2018,0.2263,0.192,0.808,0.0
+41,BBC News (World),Pope keeps silent on abuse claim letter at end of Irish visit https://t.co/Ni1gxFxWZR,Mon Aug 27 02:24:00 +0000 2018,-0.6369,0.0,0.741,0.259
+42,BBC News (World),Myanmar Reuters journalists Wa Lone and Kyaw Soe Oo await verdict https://t.co/rccFV47cQz,Mon Aug 27 01:27:15 +0000 2018,-0.0258,0.213,0.638,0.149
+43,BBC News (World),Colombia anti-corruption referendum fails to meet quorum https://t.co/ClpuO5E6y7,Mon Aug 27 00:53:25 +0000 2018,-0.4215,0.0,0.714,0.286
+44,BBC News (World),Sri Lanka mass grave: Dozens of skeletons found in Mannar https://t.co/dyAjh9g8Fu,Sun Aug 26 23:14:45 +0000 2018,-0.3818,0.0,0.794,0.206
+45,BBC News (World),"Mass shooting in Jacksonville, Florida https://t.co/hlxQQ4IJoU",Sun Aug 26 18:42:55 +0000 2018,0.0,0.0,1.0,0.0
+46,BBC News (World),When the Pope asked Ireland for forgiveness https://t.co/E1zMBHGzZp,Sun Aug 26 17:57:02 +0000 2018,0.2732,0.231,0.769,0.0
+47,BBC News (World),"""He was always willing to speak truth to power"" - Tributes to John McCain
+
+https://t.co/VoG3VTnCRu https://t.co/QehdNdHnic",Sun Aug 26 16:49:09 +0000 2018,0.3182,0.141,0.859,0.0
+48,BBC News (World),RT @BBCNews: Neil Simon: Celebrated US playwright dies aged 91 https://t.co/S6Ew4Qk73Q,Sun Aug 26 16:45:16 +0000 2018,0.5719,0.27,0.73,0.0
+49,BBC News (World),Papal visit: Vigils remember Church abuse victims https://t.co/5rKkCShAxz,Sun Aug 26 16:14:40 +0000 2018,-0.7579,0.0,0.48,0.52
+50,BBC News (World),German town evacuated over WW2 bomb https://t.co/ALnTTHQFIC,Sun Aug 26 15:49:27 +0000 2018,-0.4939,0.0,0.652,0.348
+51,BBC News (World),Can man's best friend help take down the ivory trade? 🐕🐘 https://t.co/83K8s0IkOA,Sun Aug 26 15:26:39 +0000 2018,0.8779,0.529,0.471,0.0
+52,BBC News (World),"RT @BBCNews: Egypt hotel deaths: ""As soon as they went into the bedroom my daughter said she could smell something funny - that wasn't righ…",Sun Aug 26 15:26:35 +0000 2018,0.4404,0.112,0.888,0.0
+53,BBC News (World),"RT @bbcworldservice: ""Entangled in a fishing net... it was as torturously sad as anything I've ever seen in my whole life."" The race to sav…",Sun Aug 26 15:20:21 +0000 2018,-0.743,0.0,0.777,0.223
+54,BBC News (World),"RT @bbcf1: 🇩🇪 Sebastian Vettel wins! 
+
+Lewis Hamilton finishes second, meaning his lead at the top is cut from 24 points to 17.
+
+Live #Belg…",Sun Aug 26 14:44:33 +0000 2018,0.5707,0.194,0.736,0.07
+55,BBC News (World),Afghanistan Islamic State leader 'killed in air strike' https://t.co/SSeOPBElfN,Sun Aug 26 14:35:06 +0000 2018,-0.7184,0.0,0.538,0.462
+56,BBC News (World),"RT @BBCNewsNI: ""I was disappointed there isn't going to be a more open and transparent accountability process."" Marie Collins was one of th…",Sun Aug 26 14:07:01 +0000 2018,-0.4767,0.0,0.871,0.129
+57,BBC News (World),Australia: Illegal boat runs aground in Queensland crocodile swamp https://t.co/gM9OCV2sPG,Sun Aug 26 13:46:00 +0000 2018,-0.5574,0.0,0.714,0.286
+58,BBC News (World),"These endangered birds have no sense of direction, so conservationists came up with a novel way to get them home...… https://t.co/euDXjyNNHL",Sun Aug 26 12:37:00 +0000 2018,0.0258,0.102,0.8,0.098
+59,BBC News (World),Iran MPs vote to remove economy minister amid financial crisis https://t.co/8awQ4Nx6rx,Sun Aug 26 12:04:12 +0000 2018,-0.6249,0.0,0.709,0.291
+60,CBS News,"Almanac: Don LaFontaine, the voice of movie trailers https://t.co/NYQAFObS5e https://t.co/YhjuNHnHbe",Mon Aug 27 05:33:03 +0000 2018,0.0,0.0,1.0,0.0
+61,CBS News,"Revisiting Hanoi, where John McCain was shot down and held as a POW https://t.co/1PGawfkryk https://t.co/B9EYaB6jEW",Mon Aug 27 05:18:03 +0000 2018,0.0,0.0,1.0,0.0
+62,CBS News,A portrait of America https://t.co/r2u2pmdN51 https://t.co/hQP1CZpu8P,Mon Aug 27 05:03:04 +0000 2018,0.0,0.0,1.0,0.0
+63,CBS News,Arizona Gov. Doug Ducey will name McCain's replacement after funeral https://t.co/u6TovODXIK https://t.co/NyNzB51pPd,Mon Aug 27 04:48:04 +0000 2018,-0.3612,0.0,0.815,0.185
+64,CBS News,Ken Chenault on leadership and success at American Express https://t.co/6QO6G3OfMT https://t.co/5WjyhYCBPp,Mon Aug 27 04:44:24 +0000 2018,0.5719,0.27,0.73,0.0
+65,CBS News,"WATCH: As news of the mass shooting in Jacksonville, Florida, broke Sunday, organizations, celebrities, sports team… https://t.co/OcZX4uqUi9",Mon Aug 27 04:32:28 +0000 2018,-0.4215,0.0,0.851,0.149
+66,CBS News,Remembering 1968: Chicago's bloody Democratic Convention https://t.co/rpIt1j4PMO https://t.co/Z5TxZMfjhN,Mon Aug 27 04:18:04 +0000 2018,-0.4404,0.0,0.707,0.293
+67,CBS News,Schumer proposes renaming Russell Senate Office Building after John McCain https://t.co/Yoa5LwiB9c https://t.co/slCIT5LQHX,Mon Aug 27 04:03:04 +0000 2018,0.0,0.0,1.0,0.0
+68,CBS News,"It’s the hottest new form of money on the market, but it doesn’t come out of an ATM. It has to be mined. Stream the… https://t.co/psbQp3VKqd",Mon Aug 27 03:48:41 +0000 2018,0.0,0.0,1.0,0.0
+69,CBS News,Reclaiming the American prairie https://t.co/TgHTymXyGz https://t.co/GOcxIHfe59,Mon Aug 27 03:48:04 +0000 2018,0.0,0.0,1.0,0.0
+70,CBS News,Art Garfunkel on finding his voice again https://t.co/7tnV2slmds https://t.co/zWwm68kic8,Mon Aug 27 03:33:05 +0000 2018,0.0,0.0,1.0,0.0
+71,CBS News,McCain requested Obama and George W. Bush deliver eulogies at funeral https://t.co/CszOJZk1uA https://t.co/fj4ODvGlu9,Mon Aug 27 03:18:03 +0000 2018,-0.3612,0.0,0.828,0.172
+72,CBS News,"Tropical Storm Lane spares Hawaii from a direct hit, but still dumps at least 4 feet of rain https://t.co/CA6JLq5ljY https://t.co/L3XBvdRUiA",Mon Aug 27 02:44:23 +0000 2018,-0.5499,0.0,0.827,0.173
+73,CBS News,"Eleven former staffers at a prominent New Hampshire prep school have been accused of fondling, forced kissing and o… https://t.co/biipDRJvOs",Mon Aug 27 02:24:04 +0000 2018,0.2023,0.229,0.573,0.198
+74,CBS News,"Hawaii wins the 2018 Little League World Series championship, its first in a decade, defeating South Korea 3-0… https://t.co/3b2ThS4Ge2",Mon Aug 27 01:45:28 +0000 2018,0.6124,0.273,0.62,0.107
+75,CBS News,CONGRATS (little) GRAD: A baby boy born at only 22 weeks was given a tiny cap and gown after “graduating” from the… https://t.co/yJxUjFAiyT,Mon Aug 27 01:25:04 +0000 2018,0.6289,0.171,0.829,0.0
+76,CBS News,"Four-year-old Dylan Stich was wary about jumping off the diving board, until 95-year-old Daniel Biss, an Air Force… https://t.co/tzGgcGNFGJ",Mon Aug 27 01:05:00 +0000 2018,0.0772,0.067,0.933,0.0
+77,CBS News,"Former Vatican official claims Pope Francis knew of abusive ex-cardinal, calls for his resignation… https://t.co/MLsvAByT6P",Mon Aug 27 00:44:39 +0000 2018,-0.6369,0.0,0.769,0.231
+78,CBS News,"John McCain remembered: Obama, family and more pay tribute https://t.co/HuTdQPm1D4 https://t.co/FQD0YAAevt",Mon Aug 27 00:24:42 +0000 2018,-0.1761,0.0,0.855,0.145
+79,CBS News,"There’s a new gold rush going down in cities across America, but it doesn’t look at all like you’d think. Stream th… https://t.co/xQ2CEYX8u4",Mon Aug 27 00:05:31 +0000 2018,0.5023,0.134,0.866,0.0
+80,The New York Times,Russia is unveiling a floating nuclear power plant that is for now the only one of its kind https://t.co/L8AMNwvtAm,Mon Aug 27 05:45:06 +0000 2018,0.5267,0.167,0.833,0.0
+81,The New York Times,Australia’s new prime minister speaks often and openly about his Christian faith — a rarity among Australian politi… https://t.co/44dv8jtQYJ,Mon Aug 27 05:30:10 +0000 2018,0.4215,0.149,0.851,0.0
+82,The New York Times,A Japanese tourist in North Korea was detained after apparently filming footage of a military facility in the area https://t.co/eYYSl14wb5,Mon Aug 27 05:15:05 +0000 2018,-0.4019,0.0,0.863,0.137
+83,The New York Times,"A.E. Hotchner, the man who was everybody’s best friend — Ernest Hemingway’s, anyway, and Paul Newman’s — wrote his… https://t.co/YVeTUUbOGc",Mon Aug 27 05:00:05 +0000 2018,0.8126,0.316,0.684,0.0
+84,The New York Times,"Brands are reintroducing products for new generations. “What’s old is new again."" https://t.co/YpQWhHpJik",Mon Aug 27 04:45:02 +0000 2018,0.0,0.0,1.0,0.0
+85,The New York Times,"""It’s like Jekyll and Hyde.” Duncan Hunter boasted a glittering political resume, but a corruption scandal could ho… https://t.co/AirjOvslGG",Mon Aug 27 04:30:09 +0000 2018,-0.4767,0.085,0.728,0.187
+86,The New York Times,"“This is very unusual in Chicago,” a Fire Department spokesman said. “We’re going the wrong way fast, and it’s very… https://t.co/KR9pYG34cI",Mon Aug 27 04:15:04 +0000 2018,-0.6705,0.0,0.766,0.234
+87,The New York Times,"""Crazy Rich Asians"" had a decrease of only 6 percent in ticket sales compared to its opening weekend. That kind of… https://t.co/YET4PzQUWM",Mon Aug 27 04:00:08 +0000 2018,0.6808,0.265,0.644,0.091
+88,The New York Times,"In a memo, Defense Secretary Jim Mattis urged President Trump to build a national strategy for A.I. that matches th… https://t.co/hWyIum5Jc7",Mon Aug 27 03:45:04 +0000 2018,0.128,0.077,0.923,0.0
+89,The New York Times,"In Brazil, ‘Queer Museum’ Is Censored, Debated, Then Celebrated https://t.co/yj3I4g1g6J",Mon Aug 27 03:31:24 +0000 2018,0.4767,0.278,0.602,0.12
+90,The New York Times,"Alice Dunnigan, the first black woman to cover the White House, will be honored with a bronze statue at the Newseum https://t.co/8T15ZmrGEf",Mon Aug 27 03:17:40 +0000 2018,0.5859,0.16,0.84,0.0
+91,The New York Times,"A nationwide prisoner strike is drawing attention to low inmate wages, decrepit facilities and harsh sentences. “Pe… https://t.co/FH55aC58sO",Mon Aug 27 03:00:05 +0000 2018,-0.8316,0.052,0.517,0.431
+92,The New York Times,"President Trump didn't make even the most cursory public show of respect for John McCain, against whom he had conti… https://t.co/6VX8qrIxdI",Mon Aug 27 02:45:02 +0000 2018,0.4767,0.134,0.866,0.0
+93,The New York Times,The Nuclear Power Plant of the Future May Be Floating Near Russia https://t.co/8TA8ck1eGH,Mon Aug 27 02:31:33 +0000 2018,0.0,0.0,1.0,0.0
+94,The New York Times,"""Let the obvious sit too long and it becomes like an animal in a zoo: pointed at, but never exercised, and idly wan… https://t.co/vRsvmhT0DV",Mon Aug 27 02:29:57 +0000 2018,0.1901,0.074,0.926,0.0
+95,The New York Times,"How does a movie or TV show prevent a steamy scene from becoming a #MeToo experience for the actors? Enter the ""int… https://t.co/8GSStJKvhM",Mon Aug 27 02:13:02 +0000 2018,0.0258,0.055,0.945,0.0
+96,The New York Times,"""I prefer the early plays,"" our critic writes about Neil Simon's work. ""That’s in part because they literally don’t… https://t.co/dmKywcnDlY",Mon Aug 27 01:57:04 +0000 2018,-0.2732,0.0,0.9,0.1
+97,The New York Times,North Korea to Expel a Japanese Tourist Accused of Crime https://t.co/ZfFyHRgNFq,Mon Aug 27 01:43:31 +0000 2018,-0.8225,0.0,0.449,0.551
+98,The New York Times,"As a Nation Mourns McCain, Trump Is Conspicuously Absent https://t.co/oej85plXWD",Mon Aug 27 01:27:25 +0000 2018,-0.5267,0.0,0.702,0.298
+99,The New York Times,Open floor plan offices can be a challenge. Here's how to make your work space a bit more bearable. https://t.co/sUG75mhvwC,Mon Aug 27 01:16:37 +0000 2018,0.0772,0.071,0.929,0.0
+100,Fox News,"Sen. John McCain: ""What greater cause could we hope to serve than helping keep America the strong, aspiring, inspir… https://t.co/T2m8imd2JF",Mon Aug 27 05:45:00 +0000 2018,0.872,0.405,0.595,0.0
+101,Fox News,Hawaii's team celebrates together after their 3-0 win over South Korea in the Little League World Series Championsh… https://t.co/ieZAae1oYm,Mon Aug 27 05:38:00 +0000 2018,0.8176,0.306,0.694,0.0
+102,Fox News,".@RealCandaceO: ""Liberalism to me means bondage and conservatism means freedom. The freedom to choose, the freedom… https://t.co/WB71R9lEKw",Mon Aug 27 05:30:00 +0000 2018,0.8555,0.359,0.641,0.0
+103,Fox News,.@FBI swarms family home of Jacksonville Landing gunman David Katz https://t.co/IfCWLIW952,Mon Aug 27 05:23:00 +0000 2018,0.0,0.0,1.0,0.0
+104,Fox News,".@WillieNelson: ""I enjoy the audience, I enjoy the fans. You know, I like the attention— who wouldn't?"" #OBJECTified https://t.co/JRKfg8hYGB",Mon Aug 27 05:15:00 +0000 2018,0.836,0.389,0.611,0.0
+105,Fox News,"A makeshift memorial filled with flowers, candles and pictures is set up outside of @SenJohnMcCain’s office in Phoe… https://t.co/aj1dpZLaOK",Mon Aug 27 05:07:00 +0000 2018,0.0,0.0,1.0,0.0
+106,Fox News,".@KatiePavlich: ""Conservatism to me is limited government, liberty and sticking to the Constitution and realizing t… https://t.co/zUZIOU7WV9",Mon Aug 27 05:00:00 +0000 2018,0.3612,0.167,0.739,0.094
+107,Fox News,MS-13 member in Virginia pleads guilty to murder for hacking man to death with machete https://t.co/ieV4aXxBtU,Mon Aug 27 04:53:00 +0000 2018,-0.9081,0.0,0.533,0.467
+108,Fox News,".@RealCandaceO on @realDonaldTrump: ""I think that what he did in this country was the most necessary thing by killi… https://t.co/may38XX0JZ",Mon Aug 27 04:45:00 +0000 2018,0.0,0.0,1.0,0.0
+109,Fox News,".@Johnny_Joey, a retired Marine Corps bomb technician who lost both of his legs in a 2010 IED explosion, reflected… https://t.co/A3dmbzV6ig",Mon Aug 27 04:38:00 +0000 2018,-0.6705,0.0,0.744,0.256
+110,Fox News,".@LisaMarieBoothe on Kavanaugh hearing: ""The changes to the judiciary are going to be lasting legacy of President… https://t.co/OSOM6NXcpK",Mon Aug 27 04:30:00 +0000 2018,0.0,0.0,1.0,0.0
+111,Fox News,"North Carolina mom in 'disbelief' after son, 10, punished for calling teacher 'ma'am' https://t.co/Z8oqZ63bGh",Mon Aug 27 04:23:00 +0000 2018,-0.4588,0.0,0.812,0.188
+112,Fox News,"John McCain: ""I don't mind a good fight. For reasons known only to God, I've had quite a few tough ones in my life.… https://t.co/SsCVTbeEOF",Mon Aug 27 04:15:00 +0000 2018,0.0257,0.156,0.692,0.152
+113,Fox News,A woman hugs her husband for the first time in nine months since he was deployed to Iraq at Jackson Barracks in New… https://t.co/GoqA9QcpVQ,Mon Aug 27 04:08:00 +0000 2018,0.4939,0.127,0.873,0.0
+114,Fox News,".@KenPaxtonTX: ""We've had over 600,000 crimes committed by illegals since 2011. Over 1200 homicides. We've had huma… https://t.co/Tu1oIifiHM",Mon Aug 27 04:01:00 +0000 2018,0.2732,0.11,0.89,0.0
+115,Fox News,McCain's former colleague Kyl says late senator was ‘conscience of the Senate’ https://t.co/7OsyMs3UhT,Mon Aug 27 03:53:00 +0000 2018,0.0,0.0,1.0,0.0
+116,Fox News,Everett Alvarez: “[@SenJohnMcCain] always really felt this way that his service to country and what was right for t… https://t.co/60kv8CoU9M,Mon Aug 27 03:45:00 +0000 2018,0.0,0.0,1.0,0.0
+117,Fox News,"Last night, former President @BarackObama, who ran against John McCain for the presidency in 2008, said that Americ… https://t.co/xPUoDcMhiX",Mon Aug 27 03:38:00 +0000 2018,0.0,0.0,1.0,0.0
+118,Fox News,"China ride-hailing giant Didi Chuxing suspends carpooling service after woman raped, killed by driver https://t.co/ul7cD9nJA1",Mon Aug 27 03:31:00 +0000 2018,-0.8779,0.0,0.588,0.412
+119,Fox News,".@KatiePavlich: ""America has always prevailed. It is the greatest country the world has ever known. I always have f… https://t.co/JqmvWYVKrI",Mon Aug 27 03:24:01 +0000 2018,0.6369,0.189,0.811,0.0
+120,CNN,"President Trump is right. His trade war with China is causing a huge problem with North Korea, writes YJ Fischer fo… https://t.co/SFxd1fxwYM",Mon Aug 27 05:30:07 +0000 2018,-0.6486,0.086,0.669,0.245
+121,CNN,5.9 magnitude earthquake rattles western Iran https://t.co/ICWgOpOo1f https://t.co/XM74a5pC5R,Mon Aug 27 05:00:13 +0000 2018,0.0,0.0,1.0,0.0
+122,CNN,"Trump's presidency as TV series will be binge-worthy, writes Dean Obeidallah for @CNNOpinion https://t.co/uwJdrDAUlZ https://t.co/XONGCcu7Ea",Mon Aug 27 04:30:07 +0000 2018,0.0,0.0,1.0,0.0
+123,CNN,"This ""hovering"" backpack claims it'll help your back, neck, knees and ankles take up to 86% less punishment… https://t.co/U1ChdNpczb",Mon Aug 27 04:00:19 +0000 2018,0.4019,0.13,0.87,0.0
+124,CNN,Pope Francis speaks to thousands at Sunday Mass in Dublin amid sex abuse scandal https://t.co/TGxyNgqEjh https://t.co/GSh9sMFXLx,Mon Aug 27 03:30:08 +0000 2018,-0.7964,0.0,0.664,0.336
+125,CNN,Afghan President Ashraf Ghani accepted the resignation of his national security adviser but refused the resignation… https://t.co/ESRtKU8onW,Mon Aug 27 03:00:14 +0000 2018,-0.2846,0.157,0.63,0.213
+126,CNN,Runners across the US dedicate #MilesForMollie to show they're not afraid https://t.co/GnyxyePTrS https://t.co/V385mLlhAl,Mon Aug 27 02:45:04 +0000 2018,0.0,0.0,1.0,0.0
+127,CNN,Trump went against the advice of senior aides to issue an official White House statement praising Sen. John McCain… https://t.co/dGVkIBPGPW,Mon Aug 27 02:44:04 +0000 2018,0.5423,0.156,0.844,0.0
+128,CNN,Zimbabwe inaugurates a President for the second time in 9 months https://t.co/qrmKBwE0Yo https://t.co/8L43x9QWTx,Mon Aug 27 02:30:11 +0000 2018,0.0,0.0,1.0,0.0
+129,CNN,"A gunman killed two people and wounded 9 others at a video game tournament in Jacksonville, Florida, sheriff says.… https://t.co/26HoM83OFL",Mon Aug 27 02:15:07 +0000 2018,-0.6705,0.0,0.78,0.22
+130,CNN,Former Vatican official calls for Pope's resignation amid sex abuse scandal https://t.co/2OvSfAYpRA https://t.co/Vkbvqc5SE6,Mon Aug 27 02:00:08 +0000 2018,-0.8519,0.0,0.518,0.482
+131,CNN,Interior Minister Matteo Salvini facing investigation as migrants in Italy finally allowed to disembark… https://t.co/0xczcJjuhs,Mon Aug 27 01:30:05 +0000 2018,0.0,0.0,1.0,0.0
+132,CNN,Here's what you need to know to start your week smart https://t.co/eWFgnhD3Hw https://t.co/3kuLGLmwoH,Mon Aug 27 01:15:00 +0000 2018,0.4019,0.184,0.816,0.0
+133,CNN,German racing driver Sebastian Vettel wins Belgian GP after avoiding huge opening corner crash… https://t.co/I34jHBgk85,Mon Aug 27 01:00:06 +0000 2018,0.5574,0.294,0.588,0.118
+134,CNN,A man bolted toward Jay-Z and Beyoncé at their Atlanta show. He didn't get far. https://t.co/J41OthD9MW https://t.co/ilFs9Xgyn9,Mon Aug 27 00:45:03 +0000 2018,0.0,0.0,1.0,0.0
+135,CNN,The government just made it easier for workers to own a piece of their employer https://t.co/s8c6Duy2jM https://t.co/Q7xOvjg4ji,Mon Aug 27 00:30:11 +0000 2018,0.4215,0.157,0.843,0.0
+136,CNN,"ISIS leader in Afghanistan killed in airstrike, US says https://t.co/5AlZguDLaf https://t.co/DlswsD5vSJ",Mon Aug 27 00:15:07 +0000 2018,-0.6705,0.0,0.69,0.31
+137,CNN,"They pledge. Get hazed. The cycle continues.
+
+How Greek life perpetuates an ""environment of fear""… https://t.co/cZuCv4hUpt",Mon Aug 27 00:00:00 +0000 2018,0.0,0.0,1.0,0.0
+138,CNN,How Arizona will fill John McCain's seat — and who might fill it https://t.co/CrJoUrv8J7 https://t.co/6Jy9MOf1uQ,Sun Aug 26 23:45:00 +0000 2018,0.0,0.0,1.0,0.0
+139,CNN,"Former White House communications director Anthony Scaramucci says President Trump ""would have a nightmare on his h… https://t.co/8VwfyR19Ss",Sun Aug 26 23:30:01 +0000 2018,0.0,0.0,1.0,0.0
+140,BBC News (World),North Korea grants humanitarian release to Japanese tourist https://t.co/PNkDSuhbAg,Mon Aug 27 02:39:28 +0000 2018,0.2263,0.192,0.808,0.0
+141,BBC News (World),Pope keeps silent on abuse claim letter at end of Irish visit https://t.co/Ni1gxFxWZR,Mon Aug 27 02:24:00 +0000 2018,-0.6369,0.0,0.741,0.259
+142,BBC News (World),Myanmar Reuters journalists Wa Lone and Kyaw Soe Oo await verdict https://t.co/rccFV47cQz,Mon Aug 27 01:27:15 +0000 2018,-0.0258,0.213,0.638,0.149
+143,BBC News (World),Colombia anti-corruption referendum fails to meet quorum https://t.co/ClpuO5E6y7,Mon Aug 27 00:53:25 +0000 2018,-0.4215,0.0,0.714,0.286
+144,BBC News (World),Sri Lanka mass grave: Dozens of skeletons found in Mannar https://t.co/dyAjh9g8Fu,Sun Aug 26 23:14:45 +0000 2018,-0.3818,0.0,0.794,0.206
+145,BBC News (World),"Mass shooting in Jacksonville, Florida https://t.co/hlxQQ4IJoU",Sun Aug 26 18:42:55 +0000 2018,0.0,0.0,1.0,0.0
+146,BBC News (World),When the Pope asked Ireland for forgiveness https://t.co/E1zMBHGzZp,Sun Aug 26 17:57:02 +0000 2018,0.2732,0.231,0.769,0.0
+147,BBC News (World),"""He was always willing to speak truth to power"" - Tributes to John McCain
+
+https://t.co/VoG3VTnCRu https://t.co/QehdNdHnic",Sun Aug 26 16:49:09 +0000 2018,0.3182,0.141,0.859,0.0
+148,BBC News (World),RT @BBCNews: Neil Simon: Celebrated US playwright dies aged 91 https://t.co/S6Ew4Qk73Q,Sun Aug 26 16:45:16 +0000 2018,0.5719,0.27,0.73,0.0
+149,BBC News (World),Papal visit: Vigils remember Church abuse victims https://t.co/5rKkCShAxz,Sun Aug 26 16:14:40 +0000 2018,-0.7579,0.0,0.48,0.52
+150,BBC News (World),German town evacuated over WW2 bomb https://t.co/ALnTTHQFIC,Sun Aug 26 15:49:27 +0000 2018,-0.4939,0.0,0.652,0.348
+151,BBC News (World),Can man's best friend help take down the ivory trade? 🐕🐘 https://t.co/83K8s0IkOA,Sun Aug 26 15:26:39 +0000 2018,0.8779,0.529,0.471,0.0
+152,BBC News (World),"RT @BBCNews: Egypt hotel deaths: ""As soon as they went into the bedroom my daughter said she could smell something funny - that wasn't righ…",Sun Aug 26 15:26:35 +0000 2018,0.4404,0.112,0.888,0.0
+153,BBC News (World),"RT @bbcworldservice: ""Entangled in a fishing net... it was as torturously sad as anything I've ever seen in my whole life."" The race to sav…",Sun Aug 26 15:20:21 +0000 2018,-0.743,0.0,0.777,0.223
+154,BBC News (World),"RT @bbcf1: 🇩🇪 Sebastian Vettel wins! 
+
+Lewis Hamilton finishes second, meaning his lead at the top is cut from 24 points to 17.
+
+Live #Belg…",Sun Aug 26 14:44:33 +0000 2018,0.5707,0.194,0.736,0.07
+155,BBC News (World),Afghanistan Islamic State leader 'killed in air strike' https://t.co/SSeOPBElfN,Sun Aug 26 14:35:06 +0000 2018,-0.7184,0.0,0.538,0.462
+156,BBC News (World),"RT @BBCNewsNI: ""I was disappointed there isn't going to be a more open and transparent accountability process."" Marie Collins was one of th…",Sun Aug 26 14:07:01 +0000 2018,-0.4767,0.0,0.871,0.129
+157,BBC News (World),Australia: Illegal boat runs aground in Queensland crocodile swamp https://t.co/gM9OCV2sPG,Sun Aug 26 13:46:00 +0000 2018,-0.5574,0.0,0.714,0.286
+158,BBC News (World),"These endangered birds have no sense of direction, so conservationists came up with a novel way to get them home...… https://t.co/euDXjyNNHL",Sun Aug 26 12:37:00 +0000 2018,0.0258,0.102,0.8,0.098
+159,BBC News (World),Iran MPs vote to remove economy minister amid financial crisis https://t.co/8awQ4Nx6rx,Sun Aug 26 12:04:12 +0000 2018,-0.6249,0.0,0.709,0.291
+160,CBS News,"Almanac: Don LaFontaine, the voice of movie trailers https://t.co/NYQAFObS5e https://t.co/YhjuNHnHbe",Mon Aug 27 05:33:03 +0000 2018,0.0,0.0,1.0,0.0
+161,CBS News,"Revisiting Hanoi, where John McCain was shot down and held as a POW https://t.co/1PGawfkryk https://t.co/B9EYaB6jEW",Mon Aug 27 05:18:03 +0000 2018,0.0,0.0,1.0,0.0
+162,CBS News,A portrait of America https://t.co/r2u2pmdN51 https://t.co/hQP1CZpu8P,Mon Aug 27 05:03:04 +0000 2018,0.0,0.0,1.0,0.0
+163,CBS News,Arizona Gov. Doug Ducey will name McCain's replacement after funeral https://t.co/u6TovODXIK https://t.co/NyNzB51pPd,Mon Aug 27 04:48:04 +0000 2018,-0.3612,0.0,0.815,0.185
+164,CBS News,Ken Chenault on leadership and success at American Express https://t.co/6QO6G3OfMT https://t.co/5WjyhYCBPp,Mon Aug 27 04:44:24 +0000 2018,0.5719,0.27,0.73,0.0
+165,CBS News,"WATCH: As news of the mass shooting in Jacksonville, Florida, broke Sunday, organizations, celebrities, sports team… https://t.co/OcZX4uqUi9",Mon Aug 27 04:32:28 +0000 2018,-0.4215,0.0,0.851,0.149
+166,CBS News,Remembering 1968: Chicago's bloody Democratic Convention https://t.co/rpIt1j4PMO https://t.co/Z5TxZMfjhN,Mon Aug 27 04:18:04 +0000 2018,-0.4404,0.0,0.707,0.293
+167,CBS News,Schumer proposes renaming Russell Senate Office Building after John McCain https://t.co/Yoa5LwiB9c https://t.co/slCIT5LQHX,Mon Aug 27 04:03:04 +0000 2018,0.0,0.0,1.0,0.0
+168,CBS News,"It’s the hottest new form of money on the market, but it doesn’t come out of an ATM. It has to be mined. Stream the… https://t.co/psbQp3VKqd",Mon Aug 27 03:48:41 +0000 2018,0.0,0.0,1.0,0.0
+169,CBS News,Reclaiming the American prairie https://t.co/TgHTymXyGz https://t.co/GOcxIHfe59,Mon Aug 27 03:48:04 +0000 2018,0.0,0.0,1.0,0.0
+170,CBS News,Art Garfunkel on finding his voice again https://t.co/7tnV2slmds https://t.co/zWwm68kic8,Mon Aug 27 03:33:05 +0000 2018,0.0,0.0,1.0,0.0
+171,CBS News,McCain requested Obama and George W. Bush deliver eulogies at funeral https://t.co/CszOJZk1uA https://t.co/fj4ODvGlu9,Mon Aug 27 03:18:03 +0000 2018,-0.3612,0.0,0.828,0.172
+172,CBS News,"Tropical Storm Lane spares Hawaii from a direct hit, but still dumps at least 4 feet of rain https://t.co/CA6JLq5ljY https://t.co/L3XBvdRUiA",Mon Aug 27 02:44:23 +0000 2018,-0.5499,0.0,0.827,0.173
+173,CBS News,"Eleven former staffers at a prominent New Hampshire prep school have been accused of fondling, forced kissing and o… https://t.co/biipDRJvOs",Mon Aug 27 02:24:04 +0000 2018,0.2023,0.229,0.573,0.198
+174,CBS News,"Hawaii wins the 2018 Little League World Series championship, its first in a decade, defeating South Korea 3-0… https://t.co/3b2ThS4Ge2",Mon Aug 27 01:45:28 +0000 2018,0.6124,0.273,0.62,0.107
+175,CBS News,CONGRATS (little) GRAD: A baby boy born at only 22 weeks was given a tiny cap and gown after “graduating” from the… https://t.co/yJxUjFAiyT,Mon Aug 27 01:25:04 +0000 2018,0.6289,0.171,0.829,0.0
+176,CBS News,"Four-year-old Dylan Stich was wary about jumping off the diving board, until 95-year-old Daniel Biss, an Air Force… https://t.co/tzGgcGNFGJ",Mon Aug 27 01:05:00 +0000 2018,0.0772,0.067,0.933,0.0
+177,CBS News,"Former Vatican official claims Pope Francis knew of abusive ex-cardinal, calls for his resignation… https://t.co/MLsvAByT6P",Mon Aug 27 00:44:39 +0000 2018,-0.6369,0.0,0.769,0.231
+178,CBS News,"John McCain remembered: Obama, family and more pay tribute https://t.co/HuTdQPm1D4 https://t.co/FQD0YAAevt",Mon Aug 27 00:24:42 +0000 2018,-0.1761,0.0,0.855,0.145
+179,CBS News,"There’s a new gold rush going down in cities across America, but it doesn’t look at all like you’d think. Stream th… https://t.co/xQ2CEYX8u4",Mon Aug 27 00:05:31 +0000 2018,0.5023,0.134,0.866,0.0
+180,The New York Times,Russia is unveiling a floating nuclear power plant that is for now the only one of its kind https://t.co/L8AMNwvtAm,Mon Aug 27 05:45:06 +0000 2018,0.5267,0.167,0.833,0.0
+181,The New York Times,Australia’s new prime minister speaks often and openly about his Christian faith — a rarity among Australian politi… https://t.co/44dv8jtQYJ,Mon Aug 27 05:30:10 +0000 2018,0.4215,0.149,0.851,0.0
+182,The New York Times,A Japanese tourist in North Korea was detained after apparently filming footage of a military facility in the area https://t.co/eYYSl14wb5,Mon Aug 27 05:15:05 +0000 2018,-0.4019,0.0,0.863,0.137
+183,The New York Times,"A.E. Hotchner, the man who was everybody’s best friend — Ernest Hemingway’s, anyway, and Paul Newman’s — wrote his… https://t.co/YVeTUUbOGc",Mon Aug 27 05:00:05 +0000 2018,0.8126,0.316,0.684,0.0
+184,The New York Times,"Brands are reintroducing products for new generations. “What’s old is new again."" https://t.co/YpQWhHpJik",Mon Aug 27 04:45:02 +0000 2018,0.0,0.0,1.0,0.0
+185,The New York Times,"""It’s like Jekyll and Hyde.” Duncan Hunter boasted a glittering political resume, but a corruption scandal could ho… https://t.co/AirjOvslGG",Mon Aug 27 04:30:09 +0000 2018,-0.4767,0.085,0.728,0.187
+186,The New York Times,"“This is very unusual in Chicago,” a Fire Department spokesman said. “We’re going the wrong way fast, and it’s very… https://t.co/KR9pYG34cI",Mon Aug 27 04:15:04 +0000 2018,-0.6705,0.0,0.766,0.234
+187,The New York Times,"""Crazy Rich Asians"" had a decrease of only 6 percent in ticket sales compared to its opening weekend. That kind of… https://t.co/YET4PzQUWM",Mon Aug 27 04:00:08 +0000 2018,0.6808,0.265,0.644,0.091
+188,The New York Times,"In a memo, Defense Secretary Jim Mattis urged President Trump to build a national strategy for A.I. that matches th… https://t.co/hWyIum5Jc7",Mon Aug 27 03:45:04 +0000 2018,0.128,0.077,0.923,0.0
+189,The New York Times,"In Brazil, ‘Queer Museum’ Is Censored, Debated, Then Celebrated https://t.co/yj3I4g1g6J",Mon Aug 27 03:31:24 +0000 2018,0.4767,0.278,0.602,0.12
+190,The New York Times,"Alice Dunnigan, the first black woman to cover the White House, will be honored with a bronze statue at the Newseum https://t.co/8T15ZmrGEf",Mon Aug 27 03:17:40 +0000 2018,0.5859,0.16,0.84,0.0
+191,The New York Times,"A nationwide prisoner strike is drawing attention to low inmate wages, decrepit facilities and harsh sentences. “Pe… https://t.co/FH55aC58sO",Mon Aug 27 03:00:05 +0000 2018,-0.8316,0.052,0.517,0.431
+192,The New York Times,"President Trump didn't make even the most cursory public show of respect for John McCain, against whom he had conti… https://t.co/6VX8qrIxdI",Mon Aug 27 02:45:02 +0000 2018,0.4767,0.134,0.866,0.0
+193,The New York Times,The Nuclear Power Plant of the Future May Be Floating Near Russia https://t.co/8TA8ck1eGH,Mon Aug 27 02:31:33 +0000 2018,0.0,0.0,1.0,0.0
+194,The New York Times,"""Let the obvious sit too long and it becomes like an animal in a zoo: pointed at, but never exercised, and idly wan… https://t.co/vRsvmhT0DV",Mon Aug 27 02:29:57 +0000 2018,0.1901,0.074,0.926,0.0
+195,The New York Times,"How does a movie or TV show prevent a steamy scene from becoming a #MeToo experience for the actors? Enter the ""int… https://t.co/8GSStJKvhM",Mon Aug 27 02:13:02 +0000 2018,0.0258,0.055,0.945,0.0
+196,The New York Times,"""I prefer the early plays,"" our critic writes about Neil Simon's work. ""That’s in part because they literally don’t… https://t.co/dmKywcnDlY",Mon Aug 27 01:57:04 +0000 2018,-0.2732,0.0,0.9,0.1
+197,The New York Times,North Korea to Expel a Japanese Tourist Accused of Crime https://t.co/ZfFyHRgNFq,Mon Aug 27 01:43:31 +0000 2018,-0.8225,0.0,0.449,0.551
+198,The New York Times,"As a Nation Mourns McCain, Trump Is Conspicuously Absent https://t.co/oej85plXWD",Mon Aug 27 01:27:25 +0000 2018,-0.5267,0.0,0.702,0.298
+199,The New York Times,Open floor plan offices can be a challenge. Here's how to make your work space a bit more bearable. https://t.co/sUG75mhvwC,Mon Aug 27 01:16:37 +0000 2018,0.0772,0.071,0.929,0.0
+200,Fox News,".@marykissel: ""You cannot underestimate the political peril that this president is in if @TheDemocrats retake the H… https://t.co/z9mKwGfghd",Mon Aug 27 03:17:00 +0000 2018,-0.2052,0.092,0.777,0.131
+201,Fox News,"John Kaites: “[@SenJohnMcCain] was really open, caring, hardworking and an intentional listener.” https://t.co/b5qqep5IdN",Mon Aug 27 03:10:00 +0000 2018,0.539,0.225,0.775,0.0
+202,Fox News,"Earlier today, @IvankaTrump commemorated #WomensEqualityDay. https://t.co/9I1sIqF6gE",Mon Aug 27 03:03:00 +0000 2018,0.0,0.0,1.0,0.0
+203,Fox News,Celebrities react to Jacksonville 'mass shooting' https://t.co/oJqFPGr3yv,Mon Aug 27 02:58:00 +0000 2018,0.0,0.0,1.0,0.0
+204,Fox News,"OPINION: Iran's forgotten persecuted Christian minority 
+ https://t.co/VnBxIn3gWm",Mon Aug 27 02:53:00 +0000 2018,-0.4939,0.0,0.543,0.457
+205,Fox News,RT @FoxBusiness: Here’s how Chicago plans to fix its $28B pension deficit  https://t.co/9RAdIplcjX,Mon Aug 27 02:48:12 +0000 2018,-0.4019,0.0,0.816,0.184
+206,Fox News,"McCain remembered by world leaders for 'service to freedom, democracy and rule of law' https://t.co/LT7xjoviBK",Mon Aug 27 02:45:00 +0000 2018,0.6369,0.231,0.769,0.0
+207,Fox News,".@RealCandaceO on @realDonaldTrump: ""I think that what he did in this country was the most necessary thing by killi… https://t.co/vbLjHRmYNN",Mon Aug 27 02:37:33 +0000 2018,0.0,0.0,1.0,0.0
+208,Fox News,Gunman kills two at video game tournament in Florida before turning weapon on himself. https://t.co/uTPnJlkhaX https://t.co/L0r7bGpWCJ,Mon Aug 27 02:34:19 +0000 2018,-0.6908,0.0,0.711,0.289
+209,Fox News,.@GovMikeHuckabee Remembers Sen. John McCain: He Was an 'Incredibly Gracious and Grateful Person' https://t.co/GB8rtUEJGi,Mon Aug 27 02:33:00 +0000 2018,0.7996,0.374,0.626,0.0
+210,Fox News,"John McCain's military career, from his time as Vietnam War POW to role in passing defense bill https://t.co/pvGXFdWRul",Mon Aug 27 02:26:07 +0000 2018,-0.5267,0.07,0.748,0.182
+211,Fox News,".@KatiePavlich: ""Conservatism to me is limited government, liberty and sticking to the Constitution and realizing t… https://t.co/75n3Wgpc9i",Mon Aug 27 02:16:38 +0000 2018,0.3612,0.167,0.739,0.094
+212,Fox News,".@RealCandaceO: ""Liberalism to me means bondage and conservatism means freedom. The freedom to choose, the freedom… https://t.co/V6IvKbJKmd",Mon Aug 27 02:16:07 +0000 2018,0.8555,0.359,0.641,0.0
+213,Fox News,".@KatiePavlich: ""I wrote a letter to @BillClinton when I was six years old about taxes and how it was unfair that h… https://t.co/Z4QBw7VjLp",Mon Aug 27 02:09:23 +0000 2018,-0.4767,0.0,0.866,0.134
+214,Fox News,"13th suspect arrested in Bronx teen 'Junior' Guzman's killing, report says https://t.co/uTKdyyVy5I",Mon Aug 27 02:03:15 +0000 2018,-0.8658,0.0,0.481,0.519
+215,Fox News,".@LisaMarieBoothe on Kavanaugh hearing: ""The changes to the judiciary are going to be lasting legacy of President… https://t.co/6Tps4yDu2Y",Mon Aug 27 01:49:47 +0000 2018,0.0,0.0,1.0,0.0
+216,Fox News,Sgt. Joey Jones on McCain's Military Impact: War Doesn't Have to Steal 'Your Will for Tomorrow' https://t.co/Ie14KwHmys,Mon Aug 27 01:41:34 +0000 2018,-0.312,0.122,0.697,0.181
+217,Fox News,Jacksonville Madden tournament targeted by gunman was early qualifier https://t.co/xrxnfSvCHH,Mon Aug 27 01:31:22 +0000 2018,0.0,0.0,1.0,0.0
+218,Fox News,"Clinton, Obama among Democrats paying tribute to McCain's commitment to bipartisanship https://t.co/g8qlpiPmzM",Mon Aug 27 01:23:02 +0000 2018,0.3818,0.191,0.809,0.0
+219,Fox News,"Flowers, candles and notes honoring Sen. John McCain​ are left outside of a Phoenix mortuary. The two-time presiden… https://t.co/oGoswfFq9l",Mon Aug 27 01:12:47 +0000 2018,0.5106,0.163,0.837,0.0
+220,CNN,Colleagues share memorable moments with John McCain https://t.co/jMOM5HB3EL https://t.co/cbbnYDOoNm,Sun Aug 26 23:15:00 +0000 2018,0.296,0.216,0.784,0.0
+221,CNN,New Mexico compound suspects allegedly planned to attack Atlanta's Grady Hospital https://t.co/tKzpxZwIm5 https://t.co/ygB9BLWHQt,Sun Aug 26 23:00:00 +0000 2018,-0.6705,0.0,0.667,0.333
+222,CNN,Pope's visit fails to soothe Irish fury over abuse https://t.co/aDXzVA53FG https://t.co/i4Q1z5RI1d,Sun Aug 26 22:45:00 +0000 2018,-0.8481,0.124,0.347,0.53
+223,CNN,Chicago fire kills 8 people — including 6 kids — in a home with no smoke detector https://t.co/SOJCkY9x2G https://t.co/4Nq2wxqsdR,Sun Aug 26 22:30:00 +0000 2018,-0.7964,0.0,0.576,0.424
+224,CNN,"North Korean leader Kim Jong Un's charm offensive wins over other nations while President Trump stews, writes Saman… https://t.co/wUKX1tx8Dt",Sun Aug 26 22:15:00 +0000 2018,0.5267,0.252,0.63,0.118
+225,CNN,Is capitalism losing or socialism gaining? Yes. https://t.co/TZoFDkTQ0P | Analysis by Gregory Krieg https://t.co/pFMEk6BTsm,Sun Aug 26 22:00:01 +0000 2018,0.4404,0.304,0.552,0.144
+226,CNN,"Hillary Clinton lauds John McCain as ""a patriot regardless of party"" https://t.co/bDCzknBs5e https://t.co/TTmIX7p3eQ",Sun Aug 26 21:45:00 +0000 2018,0.4019,0.184,0.816,0.0
+227,CNN,Fasten your seat belts for a wild fall on Wall Street https://t.co/oB6a1Yvc2U https://t.co/JqCJn1TFJU,Sun Aug 26 21:30:01 +0000 2018,0.0,0.0,1.0,0.0
+228,CNN,"Stargazers, get ready because Sunday night is the last time to see a full moon this summer https://t.co/qbyIKoQ2PX https://t.co/K5Sw41HQzw",Sun Aug 26 21:15:35 +0000 2018,0.3612,0.128,0.872,0.0
+229,CNN,Hawaii faces heavy rains as Tropical Storm Lane remains weak https://t.co/N2vVA2rfXD https://t.co/iOZi62adma,Sun Aug 26 21:00:01 +0000 2018,-0.4404,0.0,0.791,0.209
+230,CNN,"Authorities have cleared the scene of a shooting at a video game tournament in Jacksonville, Florida. Police say th… https://t.co/rpE33FE2Q6",Sun Aug 26 20:50:13 +0000 2018,0.1027,0.076,0.924,0.0
+231,CNN,This Ferrari GTO is the most valuable car ever auctioned. It sold for $48 million. https://t.co/Bh1AQeyG1V https://t.co/LyCptE66uE,Sun Aug 26 20:45:04 +0000 2018,0.5256,0.175,0.825,0.0
+232,CNN,New Mexico compound family struggled with life off the grid https://t.co/nmyKVhueEj https://t.co/lxZfZzb5tU,Sun Aug 26 20:30:07 +0000 2018,-0.34,0.0,0.821,0.179
+233,CNN,"Katherine Johnson, who hand-crunched the numbers for America's first manned space flight, is 100 today… https://t.co/CXCa6hNXqr",Sun Aug 26 20:15:03 +0000 2018,0.0,0.0,1.0,0.0
+234,CNN,How John McCain's running mate remembers him https://t.co/8UZKbUtIZ3 https://t.co/UgldRDOllO,Sun Aug 26 20:00:05 +0000 2018,0.0,0.0,1.0,0.0
+235,CNN,John McCain will lie in state in Arizona on Wednesday https://t.co/czmayQzGhG https://t.co/8qtpAPrZCv,Sun Aug 26 19:53:06 +0000 2018,0.0,0.0,1.0,0.0
+236,CNN,"""I am mourning, America is mourning."" Democratic Sen. Chuck Schumer reflects on the death of his colleague and frie… https://t.co/EVWraHl1kb",Sun Aug 26 19:46:02 +0000 2018,-0.7783,0.0,0.726,0.274
+237,CNN,"What we know about the shooting at a video game tournament in Jacksonville:
+■ Multiple fatalities — including one s… https://t.co/ACjkIr26xc",Sun Aug 26 19:39:05 +0000 2018,-0.5994,0.0,0.813,0.187
+238,CNN,"""Everybody was crying, yelling"": Florida video game tournament shooting witness describes how he crawled into the b… https://t.co/bLbTDQsVA6",Sun Aug 26 19:32:56 +0000 2018,-0.4767,0.0,0.846,0.154
+239,CNN,How the sports world is honoring Sen. John McCain https://t.co/feAuFuAUoA https://t.co/aXby0yFP4o,Sun Aug 26 19:22:04 +0000 2018,0.5106,0.248,0.752,0.0
+240,BBC News (World),Asian Games: Unified Korea boating team win historic gold https://t.co/mvFQFtOgeq,Sun Aug 26 11:45:40 +0000 2018,0.7506,0.444,0.556,0.0
+241,BBC News (World),John McCain: Tributes as Vietnam veteran and six-term senator dies at 81 https://t.co/zzoGkvexyG,Sun Aug 26 11:20:32 +0000 2018,0.0,0.0,1.0,0.0
+242,BBC News (World),"It's hard to imagine... but turtles didn't always have shells 🐢
+
+https://t.co/JPw7CqVCck https://t.co/eylvFfokzN",Sun Aug 26 11:06:25 +0000 2018,-0.0516,0.0,0.909,0.091
+243,BBC News (World),Five times McCain clashed with Trump https://t.co/9roNpZ3vXX,Sun Aug 26 11:01:12 +0000 2018,0.0,0.0,1.0,0.0
+244,BBC News (World),Zimbabwe election: Mnangagwa sworn in as dispute continues https://t.co/YDvuVulh5n,Sun Aug 26 10:37:35 +0000 2018,-0.4019,0.0,0.748,0.252
+245,BBC News (World),"Pope Francis asks for ""firm and decisive"" action to secure ""truth and justice"" for survivors of clerical abuse, dur… https://t.co/04DNyxD4Cg",Sun Aug 26 09:51:19 +0000 2018,0.5859,0.342,0.514,0.144
+246,BBC News (World),"Pope Francis must ""get his head around"" the struggles of those who have suffered clerical sex abuse, says one survi… https://t.co/4jktBfVkYi",Sun Aug 26 09:33:53 +0000 2018,-0.872,0.0,0.645,0.355
+247,BBC News (World),"US war hero, maverick, political titan - the life of John McCain",Sun Aug 26 08:03:23 +0000 2018,-0.0772,0.218,0.545,0.236
+248,BBC News (World),Didi Chuxing suspends carpool service after woman killed https://t.co/4mla2ybwgV,Sun Aug 26 06:59:35 +0000 2018,-0.6705,0.0,0.64,0.36
+249,BBC News (World),Papal visit: Pope Francis travels to Knock Shrine https://t.co/ydtFDWMODl,Sun Aug 26 05:20:57 +0000 2018,0.0,0.0,1.0,0.0
+250,BBC News (World),Julie Bishop 'to resign as foreign minister' https://t.co/y4H5s4MHAp,Sun Aug 26 03:29:17 +0000 2018,-0.34,0.0,0.745,0.255
+251,BBC News (World),Meet an ivory trafficker's 'worst nightmare' https://t.co/m28RlziSgY,Sun Aug 26 02:22:56 +0000 2018,-0.6249,0.0,0.594,0.406
+252,BBC News (World),Finding a solution to Canada's Indigenous water crisis https://t.co/rcdbQTH7pp,Sun Aug 26 01:58:13 +0000 2018,-0.4215,0.185,0.484,0.331
+253,BBC News (World),A Turkish headache for the West https://t.co/V6idaPH5ER,Sun Aug 26 01:55:10 +0000 2018,0.0,0.0,1.0,0.0
+254,BBC News (World),The key moments in John McCain's life https://t.co/Zd0RlAAPcv,Sun Aug 26 00:41:48 +0000 2018,0.0,0.0,1.0,0.0
+255,BBC News (World),Obituary: John McCain https://t.co/cUKl0efRs2,Sun Aug 26 00:33:48 +0000 2018,0.0,0.0,1.0,0.0
+256,BBC News (World),US Senator John McCain dies aged 81 https://t.co/Sge1AtsTtk,Sun Aug 26 00:28:23 +0000 2018,0.0,0.0,1.0,0.0
+257,BBC News (World),Colombia hopes a referendum will help root out corruption https://t.co/V3qCSVeesN,Sat Aug 25 23:40:43 +0000 2018,0.6705,0.44,0.56,0.0
+258,BBC News (World),Asian Games: India's elderly bridge players aim for glory https://t.co/HuwxrXBFgD,Sat Aug 25 23:38:16 +0000 2018,0.5423,0.28,0.72,0.0
+259,BBC News (World),Costa Rica march in solidarity with Nicaraguan migrants https://t.co/tfk2mO5ipl,Sat Aug 25 23:26:39 +0000 2018,0.296,0.216,0.784,0.0
+260,CBS News,“One violent crime in our city is one too many. Tonight we pray for the wounded. And we pray for the families of th… https://t.co/Ns5jVT96M8,Sun Aug 26 23:54:31 +0000 2018,-0.5859,0.139,0.636,0.224
+261,CBS News,"Jacksonville shooting: A 24-year-old Baltimore, Maryland, man is believed to be the shooter, according to the Jacks… https://t.co/uZ8Ltmqy0H",Sun Aug 26 23:48:25 +0000 2018,0.0,0.0,1.0,0.0
+262,CBS News,"Jacksonville shooting: Authorities say 3 individuals were found dead at the scene of the shooting, including the su… https://t.co/Cc0Dx8UdP1",Sun Aug 26 23:44:27 +0000 2018,-0.6486,0.0,0.798,0.202
+263,CBS News,"""All of us can aspire to the courage to put the greater good above our own,"" says Former President Obama about John… https://t.co/C8ahEBfXMW",Sun Aug 26 23:27:08 +0000 2018,0.8225,0.301,0.699,0.0
+264,CBS News,"Chicago apartment fire kills 8, including 6 children https://t.co/wI4aQPlOx9 https://t.co/XSSKQuhO5o",Sun Aug 26 23:04:42 +0000 2018,-0.7096,0.0,0.543,0.457
+265,CBS News,"Jacksonville, Fla., shooting: Preliminary reports say four people were killed and at least nine wounded. It is uncl… https://t.co/O54nE3Oowf",Sun Aug 26 22:46:01 +0000 2018,-0.6705,0.0,0.8,0.2
+266,CBS News,"Multiple people have been killed after a shooting at a video game tournament Sunday in Jacksonville, Florida. Here… https://t.co/UyYUj6HhKM",Sun Aug 26 22:27:10 +0000 2018,-0.6705,0.0,0.78,0.22
+267,CBS News,"Pope Francis apologizes for Catholic Church's ""crimes"" in Ireland https://t.co/vJoubDEcQt https://t.co/0rcu3O7rw3",Sun Aug 26 22:00:54 +0000 2018,0.3612,0.2,0.8,0.0
+268,CBS News,"Jacksonville Sheriff Mike Williams said one suspect, a white male, was killed at The Jacksonville Landing in the ci… https://t.co/LMf8JNfSH5",Sun Aug 26 21:46:25 +0000 2018,-0.7717,0.0,0.717,0.283
+269,CBS News,"""In the end, it matters less that you can fight. What you fight for is the real test."" The greatest quotes from Joh… https://t.co/k2VjOsPaJA",Sun Aug 26 21:40:36 +0000 2018,0.0258,0.174,0.656,0.17
+270,CBS News,A look at the last moments @60Minutes shared with John McCain https://t.co/h5hifVVHL7 https://t.co/5spcASa25a,Sun Aug 26 21:20:35 +0000 2018,0.34,0.179,0.821,0.0
+271,CBS News,"It’s the hottest new form of money on the market, but it doesn’t come out of an ATM. It has to be mined. Stream the… https://t.co/7nErC1uGy1",Sun Aug 26 20:56:40 +0000 2018,0.0,0.0,1.0,0.0
+272,CBS News,SOON: @JSOPIO to hold news conference on mass shooting at a Madden gaming tournament that left multiple people dead… https://t.co/z9noLDSr8u,Sun Aug 26 20:32:20 +0000 2018,0.0,0.0,1.0,0.0
+273,CBS News,"""The President has been briefed and we are monitoring the situation in Jacksonville, FL,"" @PressSec says.… https://t.co/JsY3mmxhvp",Sun Aug 26 19:55:52 +0000 2018,0.0,0.0,1.0,0.0
+274,CBS News,"""It could have been me,"" says contestant, who was on his way to Madden tournament where deadly mass shooting happen… https://t.co/lQO0zzCGnv",Sun Aug 26 19:51:26 +0000 2018,0.0,0.0,1.0,0.0
+275,CBS News,Florida Gov. Rick Scott tweeted that he is offering state resources to the local sheriff's office after a mass shoo… https://t.co/tOYdLzeSoz,Sun Aug 26 19:24:33 +0000 2018,0.0,0.0,1.0,0.0
+276,CBS News,BREAKING: Multiple people have been killed in a mass shooting at a mall hosting a Madden tournament in Jacksonville… https://t.co/j0YwP1B7Ru,Sun Aug 26 19:02:42 +0000 2018,-0.6705,0.0,0.78,0.22
+277,CBS News,"Jacksonville police are responding to a ""mass shooting"" believed to be at a venue hosting a regional Madden tournam… https://t.co/EurxmWaeJZ",Sun Aug 26 18:54:11 +0000 2018,0.0,0.0,1.0,0.0
+278,CBS News,"Senator McCain died on the same day as Sen. Ted Kennedy did, nine years apart, of the same cancer. Here's him talki… https://t.co/hMxlELVZZG",Sun Aug 26 18:50:34 +0000 2018,-0.8402,0.0,0.724,0.276
+279,CBS News,"BREAKING: Police in Jacksonville, Florida, say they're responding to a mass shooting at the Jacksonville Landing ma… https://t.co/RUXFBjJcFd",Sun Aug 26 18:30:18 +0000 2018,0.0,0.0,1.0,0.0
+280,The New York Times,The number of individuals who sleep less than the recommended hours is increasing in the developed world. This is c… https://t.co/90thyHlr4I,Mon Aug 27 01:00:12 +0000 2018,0.2111,0.13,0.87,0.0
+281,The New York Times,Your toilet isn’t a garbage can https://t.co/LV6rS344g7,Mon Aug 27 00:45:29 +0000 2018,0.0,0.0,1.0,0.0
+282,The New York Times,Opera of Demons https://t.co/ZX311TjNY5,Mon Aug 27 00:28:35 +0000 2018,0.0,0.0,1.0,0.0
+283,The New York Times,"An Appraisal: Neil Simon Drew Big Laughs, Then Came a Cultural Shift https://t.co/KGxii8a7UJ",Mon Aug 27 00:18:35 +0000 2018,0.4939,0.225,0.775,0.0
+284,The New York Times,Artificial Intelligence Is Now a Pentagon Priority. Will Silicon Valley Help? https://t.co/TsNFSJyEr4,Mon Aug 27 00:18:33 +0000 2018,0.7003,0.392,0.608,0.0
+285,The New York Times,Here are books for kids who might find some comfort knowing that other students (and dinosaurs and stick insects) g… https://t.co/F0fu17vkQM,Mon Aug 27 00:00:07 +0000 2018,0.3612,0.111,0.889,0.0
+286,The New York Times,"Capitalism, Socialism, and Unfreedom https://t.co/HoL30yUS1B",Sun Aug 26 23:48:40 +0000 2018,0.0,0.0,1.0,0.0
+287,The New York Times,Prison Strike Organizers Aim to Improve Conditions and Pay https://t.co/lO3dWWSQIX,Sun Aug 26 23:32:01 +0000 2018,-0.3182,0.192,0.397,0.411
+288,The New York Times,My WORKOUT: How One Silicon Valley C.E.O. Masters Work-Life Balance https://t.co/NH84Cqo2hI,Sun Aug 26 23:16:11 +0000 2018,0.0,0.0,1.0,0.0
+289,The New York Times,John McCain’s Parting Message: Our Greatness Is in Peril https://t.co/kkoTHUMnWe,Sun Aug 26 23:04:05 +0000 2018,-0.4019,0.0,0.769,0.231
+290,The New York Times,"With Republicans clinging to a 50-49 Senate majority, the Arizona governor's choice for John McCain's successor has… https://t.co/UQ6rDO682q",Sun Aug 26 23:03:22 +0000 2018,0.2263,0.106,0.894,0.0
+291,The New York Times,"""It's literally the warehousing of human beings — like they were packages to be shipped off."" A look at the ""stash… https://t.co/i6r3yCmZpj",Sun Aug 26 23:00:06 +0000 2018,0.3612,0.116,0.884,0.0
+292,The New York Times,"Night owls of the world unite. In a 24-hour economy, what if going to bed in the wee hours is actually an advantage? https://t.co/rqct1lLJH1",Sun Aug 26 22:48:39 +0000 2018,0.25,0.083,0.917,0.0
+293,The New York Times,"In @nytopinion,
+Op-Ed contributor Miriam Pawel writes, ""Not every believer in the Party of California has been a gr… https://t.co/xJjmPbD3zT",Sun Aug 26 22:34:05 +0000 2018,0.4019,0.13,0.87,0.0
+294,The New York Times,RT @PatriciaMazzei: Our running @nytimes story on the mass shooting at the Jacksonville Landing: https://t.co/Efl9De2gDs,Sun Aug 26 22:27:35 +0000 2018,0.0,0.0,1.0,0.0
+295,The New York Times,"Catch up on the latest news about Elon Musk, John McCain's death, and other top stories, and get a look ahead, in y… https://t.co/Dlec9YkqO2",Sun Aug 26 21:45:10 +0000 2018,-0.4767,0.067,0.787,0.146
+296,The New York Times,RT @EricLiptonNYT: FOLLOW ALONG HERE--IT YOU EAT FRUIT &amp; VEGETABLES. My colleague @dannyhakim and I took a deep journey this summer into th…,Sun Aug 26 21:21:40 +0000 2018,0.0,0.0,1.0,0.0
+297,The New York Times,"Glenn Close says she went into her latest role, a woman who spends her life as a self-described ""kingmaker"" to her… https://t.co/x2NXBuUlXz",Sun Aug 26 21:00:13 +0000 2018,0.0,0.0,1.0,0.0
+298,The New York Times,"Police say a man shot last month in the Bronx is an associate of a well-known mafia family. ""The fact that they are… https://t.co/O3BouYHitn",Sun Aug 26 20:45:05 +0000 2018,0.0,0.0,1.0,0.0
+299,The New York Times,"RT @nytimesbusiness: ""Dots don't matter"" in Gmail addresses, and plus signs have their pluses. Here's how to get more out of your Google ma…",Sun Aug 26 20:37:02 +0000 2018,-0.0191,0.0,0.955,0.045
+300,Fox News,".@WillieNelson: ""I'm just fortunate enough to be able to put out what I'm thinking and put a melody to it.""… https://t.co/ruN8tn3qI6",Mon Aug 27 01:03:26 +0000 2018,0.4404,0.132,0.868,0.0
+301,Fox News,"Glioblastoma, which killed McCain, is 'complex' and 'aggressive' disease, brain tumor group says https://t.co/3UkwLBtLMF",Mon Aug 27 00:57:52 +0000 2018,-0.7964,0.0,0.628,0.372
+302,Fox News,Pope refuses to comment on claims he ignored McCarrick abuse accusations https://t.co/UiWnt56fs9,Mon Aug 27 00:51:33 +0000 2018,-0.8316,0.0,0.506,0.494
+303,Fox News,".@WillieNelson on being a dad: ""I hope [my kids] watch me and not make the same mistakes I made."" #OBJECTified https://t.co/bu4EjAAlmK",Mon Aug 27 00:49:23 +0000 2018,0.1027,0.129,0.759,0.112
+304,Fox News,".@WillieNelson: ""I enjoy the audience, I enjoy the fans. You know, I like the attention— who wouldn't?"" #OBJECTified https://t.co/PepfEnma7P",Mon Aug 27 00:40:25 +0000 2018,0.836,0.389,0.611,0.0
+305,Fox News,.@DrMarcSiegel: Cancer took John McCain's life -- Here's the greatest tribute we could give him https://t.co/e6eSEMbQFO,Mon Aug 27 00:36:46 +0000 2018,-0.0516,0.186,0.619,0.195
+306,Fox News,"Tributes pour in for @SenJohnMcCain, remembered as a 'true American hero' https://t.co/X9DHlRTHX9 https://t.co/VdZt0SXvhW",Mon Aug 27 00:31:12 +0000 2018,0.7506,0.39,0.61,0.0
+307,Fox News,Police investigate the scene of a shooting Sunday during a gaming event at a popular shopping center in Jacksonvill… https://t.co/ir3J1q1al4,Mon Aug 27 00:27:43 +0000 2018,0.4215,0.149,0.851,0.0
+308,Fox News,Jacksonville Landing shooter David Katz described as gamer angry after losing in tournament https://t.co/q9rHxNdWSK,Mon Aug 27 00:17:38 +0000 2018,-0.7096,0.0,0.67,0.33
+309,Fox News,Mollie Tibbetts' father tells community to 'turn the page' at funeral Mass https://t.co/1z1UNLgZcC,Mon Aug 27 00:11:34 +0000 2018,-0.3612,0.0,0.828,0.172
+310,Fox News,"Earlier, @TimTebow tweeted in response to the fatal shooting in Jacksonville, Fla. https://t.co/kXTUKnd1zT https://t.co/3B0Two7hnI",Mon Aug 27 00:02:13 +0000 2018,-0.5423,0.0,0.788,0.212
+311,Fox News,"Jacksonville Mayor @lennycurry on video game tournament shooting: ""One violent crime in our city is one too many.""… https://t.co/UDEwfD3XrA",Sun Aug 26 23:49:35 +0000 2018,-0.8126,0.0,0.697,0.303
+312,Fox News,"Jacksonville Sheriff Mike Williams on shooting suspect: ""We know that suspect used at least one handgun to commit t… https://t.co/TWsSzcoxI8",Sun Aug 26 23:46:26 +0000 2018,-0.296,0.093,0.72,0.186
+313,Fox News,"BREAKING: David Katz, 24, ID'd as suspected killer in Jacksonville shooting; 3 dead including suspect, police say https://t.co/9j7IDOUu8k",Sun Aug 26 23:40:12 +0000 2018,-0.9136,0.0,0.506,0.494
+314,Fox News,"Jacksonville Sheriff Mike Williams on victims of shooting: ""I'm happy to report that they are all in stable conditi… https://t.co/H0ZDywVQlU",Sun Aug 26 23:38:11 +0000 2018,0.5574,0.234,0.675,0.091
+315,Fox News,"Jacksonville Sheriff Mike Williams: ""There were nine victims transported by JFRD to area hospitals. Seven of those… https://t.co/wsMjxBs4Ox",Sun Aug 26 23:37:02 +0000 2018,-0.3182,0.0,0.881,0.119
+316,Fox News,"Jacksonville Sheriff Mike Williams on video game tournament shooting: ""There were three deceased individuals at the… https://t.co/9FWeSj8iZm",Sun Aug 26 23:34:03 +0000 2018,0.0,0.0,1.0,0.0
+317,Fox News,"Jacksonville Sheriff Mike Williams: ""At 1:34 p.m., 911 calls came in stating that people had been shot inside the C… https://t.co/I2Qyed4ag3",Sun Aug 26 23:32:24 +0000 2018,0.0,0.0,1.0,0.0
+318,Fox News,"Jacksonville Sheriff Mike Williams: ""This afternoon there was a Madden 19 tournament event at Chicago Pizza at the… https://t.co/rA8BlJ764t",Sun Aug 26 23:31:17 +0000 2018,0.0,0.0,1.0,0.0
+319,Fox News,"Jacksonville Sheriff Mike Williams on video game tournament shooting: ""Our thoughts and prayers go out to the victi… https://t.co/HXWrbbd8LS",Sun Aug 26 23:29:23 +0000 2018,0.0,0.0,1.0,0.0
+320,CNN,"JUST IN: Authorities say a suspect is among the ""multiple fatalities"" after a shooting at a Madden video game tourn… https://t.co/ElkwfRIjuU",Sun Aug 26 19:15:26 +0000 2018,-0.7269,0.0,0.724,0.276
+321,CNN,"""McCain understood the press."" Veteran news anchor Dan Rather says journalists had a lot of respect for Sen. John M… https://t.co/xoQZThHhZt",Sun Aug 26 19:07:01 +0000 2018,0.4767,0.14,0.86,0.0
+322,CNN,"JUST IN: Jacksonville police say there have been ""multiple fatalities"" after a shooting during a video game tournam… https://t.co/P7B7shzgDm",Sun Aug 26 19:00:25 +0000 2018,-0.5994,0.0,0.804,0.196
+323,CNN,"House Intelligence Committee ranking member Adam Schiff rebuked ""two GOP senators"" for comments signaling a possibl… https://t.co/lx6sZsMnlv",Sun Aug 26 18:48:07 +0000 2018,0.4767,0.171,0.829,0.0
+324,CNN,"BREAKING: There has been a shooting at a video game tournament in Jacksonville, Florida, the local sheriff's depart… https://t.co/p2QARLnR0a",Sun Aug 26 18:41:05 +0000 2018,0.0,0.0,1.0,0.0
+325,CNN,What made my friend John McCain so exceptional https://t.co/AtGoVkTqCS (via @CNNOpinion) https://t.co/OVupy65uiJ,Sun Aug 26 18:30:12 +0000 2018,0.4939,0.225,0.775,0.0
+326,CNN,The life and character of John McCain in his own words https://t.co/NhLQQFbJ3H https://t.co/eN8kizggtl,Sun Aug 26 18:15:09 +0000 2018,0.0,0.0,1.0,0.0
+327,CNN,"RT @HLNTV: Tonight at 8p ET/PT, a shocking new episode of Something's Killing Me with @BD_Wong. On September 29, 1982 a sinister series of…",Sun Aug 26 18:07:50 +0000 2018,-0.9001,0.0,0.633,0.367
+328,CNN,"They stand among the ramshackle surroundings of their new lives, staring intently into the camera as they recount w… https://t.co/CS9J64XsxX",Sun Aug 26 18:00:42 +0000 2018,0.0,0.0,1.0,0.0
+329,CNN,"Sen. John McCain's complex legacy offers the GOP a soul-searching opportunity, writes Julian Zelizer for… https://t.co/ztSOs7dNL1",Sun Aug 26 18:00:08 +0000 2018,0.4215,0.167,0.833,0.0
+330,CNN,"Americans are laying flowers at a monument in Hanoi, Vietnam, marking the 1967 crash site of then-Navy pilot John M… https://t.co/pFiHtO78oZ",Sun Aug 26 17:45:07 +0000 2018,-0.4019,0.0,0.876,0.124
+331,CNN,Sen. McCain's tributes aim veiled shots at President Trump https://t.co/0UQbWVQV2K (via @CNNOpinion) https://t.co/eC3tO4JPbI,Sun Aug 26 17:30:14 +0000 2018,0.0,0.0,1.0,0.0
+332,CNN,See the White House flags fly at half-staff for John McCain https://t.co/MzlK3zWZTo https://t.co/lfAqayGy5K,Sun Aug 26 17:15:05 +0000 2018,0.0,0.0,1.0,0.0
+333,CNN,"Sen. Susan Collins offers a deeply personal view of the late Sen. John McCain, saying that she's going to ""miss the… https://t.co/rNa2DOCTd5",Sun Aug 26 17:00:12 +0000 2018,-0.1531,0.0,0.926,0.074
+334,CNN,Sen. John McCain will lie in state in the US Capitol this week. Here's what that means: https://t.co/QKeaaeaVYZ https://t.co/7Uh4pYnYZ8,Sun Aug 26 16:45:10 +0000 2018,0.0,0.0,1.0,0.0
+335,CNN,Pulitzer Prize-winning playwright Neil Simon dies at 91 https://t.co/cMC2nOtkav https://t.co/BgrQWqTaIo,Sun Aug 26 16:30:10 +0000 2018,0.0,0.0,1.0,0.0
+336,CNN,Arizona Gov. Doug Ducey says he won't announce who he'll appoint to serve in John McCain’s seat in the US Senate un… https://t.co/bQPoh4VG0p,Sun Aug 26 16:15:09 +0000 2018,0.0,0.0,1.0,0.0
+337,CNN,Flags at the White House have been lowered to half-staff to honor the late Sen. John McCain https://t.co/y1fmIQ33Wp https://t.co/7Cx1JHs1Oa,Sun Aug 26 16:00:42 +0000 2018,0.4019,0.147,0.783,0.069
+338,CNN,Washington says goodbye to a giant in the Senate https://t.co/mNodmk9KZz https://t.co/gU1JoLoonj,Sun Aug 26 15:45:05 +0000 2018,0.0,0.0,1.0,0.0
+339,CNN,News of Sen. John McCain's death wasn't limited to the US. Here's how Germans saw it this morning.… https://t.co/VLvI7okPZj,Sun Aug 26 15:30:11 +0000 2018,-0.4997,0.074,0.753,0.173
+340,BBC News (World),Italy migrant row: UN calls for 'urgent' end to ship stand-off https://t.co/cKIk31dwvL,Sat Aug 25 20:19:45 +0000 2018,0.0,0.0,1.0,0.0
+341,BBC News (World),Turkey police fire tear gas at mothers' protest https://t.co/Q4mZmg15ae,Sat Aug 25 19:48:21 +0000 2018,-0.5267,0.0,0.614,0.386
+342,BBC News (World),Papal visit: How Ireland received Pope Francis https://t.co/a3teMPn9I9,Sat Aug 25 19:09:05 +0000 2018,0.0,0.0,1.0,0.0
+343,BBC News (World),"Pope Francis speaks out against the ""grave scandal"" of clerical sex abuse, during his two-day visit to Ireland… https://t.co/amtEQKDV3C",Sat Aug 25 17:50:13 +0000 2018,-0.8658,0.0,0.623,0.377
+344,BBC News (World),RT @BBCNews: Egypt hotel deaths: 'No toxic gas in UK couple's room' https://t.co/supuiwPMJS,Sat Aug 25 17:13:34 +0000 2018,-0.296,0.0,0.845,0.155
+345,BBC News (World),"'Measles can cause blindness, brain damage or even death'
+
+Cases of measles have hit record levels in Europe, exper… https://t.co/EBGCliFCtZ",Sat Aug 25 17:13:16 +0000 2018,-0.7964,0.0,0.717,0.283
+346,BBC News (World),Why Nordic countries might not be as happy as you think https://t.co/8iSAdTrkku,Sat Aug 25 16:56:01 +0000 2018,-0.4585,0.0,0.786,0.214
+347,BBC News (World),"Yellowstone National Park: Boy, 10, survives grizzly bear attack https://t.co/5xz2xLw4Np",Sat Aug 25 15:47:46 +0000 2018,-0.4767,0.0,0.744,0.256
+348,BBC News (World),Zimbabwe election: Opposition rejects court ruling on result https://t.co/XAlZUdNVwR,Sat Aug 25 15:25:42 +0000 2018,-0.4939,0.0,0.714,0.286
+349,BBC News (World),"""The world needs a revolution of love""
+
+Pope Francis remarks on rise of ""personal interest and selfishness"" as he s… https://t.co/kOf3oTidrH",Sat Aug 25 15:21:35 +0000 2018,0.6705,0.268,0.632,0.1
+350,BBC News (World),US North Korea visit: China says Trump criticism is 'irresponsible' https://t.co/4PYFIRo3h4,Sat Aug 25 13:46:27 +0000 2018,-0.4404,0.0,0.775,0.225
+351,BBC News (World),RT @BBCNews: Serena Williams: French Open bans 'superhero' catsuit from next year https://t.co/OuINu577Rd,Sat Aug 25 13:44:42 +0000 2018,0.0,0.0,1.0,0.0
+352,BBC News (World),RT @BBCNews: Venezuela migrant crisis: Peru tightens border controls https://t.co/lAXlUZc8a9,Sat Aug 25 13:44:11 +0000 2018,-0.6249,0.0,0.687,0.313
+353,BBC News (World),YouTuber McSkillet among three dead in 'wrong way' crash https://t.co/XVoYdSEgDu,Sat Aug 25 13:06:22 +0000 2018,-0.8779,0.0,0.409,0.591
+354,BBC News (World),Venezuela migrant crisis: Peru tightens border controls https://t.co/UNaSItnyNY,Sat Aug 25 12:23:05 +0000 2018,-0.6249,0.0,0.631,0.369
+355,BBC News (World),"Pope Francis says he shares the pain and shame of the Catholic community at what he called the ""grave scandal"" of c… https://t.co/1xTxY2tLUO",Sat Aug 25 12:19:19 +0000 2018,-0.8658,0.069,0.561,0.371
+356,BBC News (World),"RT @BBCNewsNI: .@Pontifex tells dignitaries in Dublin Castle that failure of Church to deal with clerical child abuse ""remains a source of…",Sat Aug 25 11:59:10 +0000 2018,-0.7845,0.059,0.664,0.277
+357,BBC News (World),"Irish PM Leo Varadkar asks Pope Francis to ""use his office and influence"" to bring ""justice, truth and healing"" to… https://t.co/4a02EcK0E3",Sat Aug 25 11:49:26 +0000 2018,0.3182,0.103,0.897,0.0
+358,BBC News (World),Follow live reporting: https://t.co/Y43EdhR4ci #PopeInIreland https://t.co/Vm8pptSlyM,Sat Aug 25 11:37:25 +0000 2018,0.0,0.0,1.0,0.0
+359,BBC News (World),Abandoned tiger and lion cubs frolic with puppies at Beijing zoo https://t.co/pZe5ganjs6,Sat Aug 25 11:32:56 +0000 2018,-0.4588,0.0,0.786,0.214
+360,CBS News,"In the six-decade history of @FaceTheNation, Sen. John McCain was the most frequent guest, with 112 total appearanc… https://t.co/uaq1qvOzJC",Sun Aug 26 18:11:01 +0000 2018,0.0,0.0,1.0,0.0
+361,CBS News,Arizona Gov. Doug Ducey will name John McCain's replacement after funeral https://t.co/i7CrzP02sn https://t.co/M1DX4SF1Uu,Sun Aug 26 17:50:55 +0000 2018,-0.3612,0.0,0.828,0.172
+362,CBS News,"""With all my failings, I try to be."" In 2017, Senator John McCain talked about seeing himself as ""The Man in the Ar… https://t.co/a6VGexnVI6",Sun Aug 26 17:20:33 +0000 2018,-0.4939,0.0,0.873,0.127
+363,CBS News,"Cryptocurrency: Virtual money, real power, and the fight for a small town's future https://t.co/FAscrLnH2v https://t.co/anihYX1BKK",Sun Aug 26 17:00:55 +0000 2018,-0.3818,0.0,0.833,0.167
+364,CBS News,"Playwright Neil Simon, a master of comedy whose laugh-filled hits such as ""The Odd Couple,"" ""Barefoot in the Park""… https://t.co/0YoBmmKwRm",Sun Aug 26 16:52:18 +0000 2018,0.0516,0.115,0.78,0.106
+365,CBS News,"Sen. Dick Durbin (D-IL) hopes the Senate will take ""inspiration"" from John McCain's life as Republicans and Democra… https://t.co/S01pH054Nj",Sun Aug 26 16:40:38 +0000 2018,-0.128,0.121,0.736,0.143
+366,CBS News,"""I've had the best life anybody could have ever known. And I want to celebrate my life,"" John McCain said in his fi… https://t.co/qyCL3VTDip",Sun Aug 26 16:26:42 +0000 2018,0.8481,0.315,0.685,0.0
+367,CBS News,John McCain requested former Presidents Barack Obama and George W. Bush deliver eulogies at his funeral… https://t.co/HbGyn0XUbM,Sun Aug 26 16:05:43 +0000 2018,0.0,0.0,1.0,0.0
+368,CBS News,"""'The world is a fine place and worth fighting for and I hate very much to leave it,’ spoke my hero, Robert Jordan,… https://t.co/KOvK3Zz1ku",Sun Aug 26 15:43:53 +0000 2018,-0.0935,0.236,0.517,0.248
+369,CBS News,RT @FaceTheNation: .@JeffFlake  tells @margbrennan  he wants to be the first Republican co-sponsor on @SenSchumer ’s resolution to rename t…,Sun Aug 26 15:35:49 +0000 2018,0.0,0.0,1.0,0.0
+370,CBS News,"""He always was a voice of clarity and vision and courage but I remember those moments of uncommon decency which is… https://t.co/Wr1ej67LG2",Sun Aug 26 15:33:55 +0000 2018,0.5346,0.243,0.757,0.0
+371,CBS News,"Sen. @JeffFlake on former U.S. presidents Barack Obama and George W. Bush speaking at John McCain's funeral: ""He wa… https://t.co/IE7T68qcHg",Sun Aug 26 15:23:45 +0000 2018,-0.3612,0.0,0.884,0.116
+372,CBS News,"""He was the conscience of the Senate,"" Senator Jeff Flake tells @FaceTheNation of John McCain's impact. ""I don't th… https://t.co/YE8bxNY1a5",Sun Aug 26 15:18:39 +0000 2018,0.0,0.0,1.0,0.0
+373,CBS News,"""John McCain's voice is still but how he lived his life will speak volumes about service to our country, our obliga… https://t.co/qrRsbKQPje",Sun Aug 26 15:16:35 +0000 2018,0.0,0.0,1.0,0.0
+374,CBS News,"RT @FaceTheNation: In 2014,  @SenJohnMcCain  talked with Face the Nation moderator @bobschieffer about the CIA's use of torture. McCain was…",Sun Aug 26 15:04:40 +0000 2018,-0.5994,0.0,0.83,0.17
+375,CBS News,"""The important thing is not to look back and figure out all of the things that I should have done...but to look bac… https://t.co/V9ITqVCrI0",Sun Aug 26 15:01:00 +0000 2018,0.2023,0.076,0.924,0.0
+376,CBS News,A former Vatican ambassador to the U.S. said Sunday that he told Pope Francis in 2013 about allegations of sexual a… https://t.co/XB8sxma3wx,Sun Aug 26 14:40:53 +0000 2018,0.0,0.0,1.0,0.0
+377,CBS News,"Revisiting Hanoi, where John McCain was shot down and held as a POW for more than five years during the Vietnam War… https://t.co/ZVnzh3FbHn",Sun Aug 26 14:20:38 +0000 2018,0.0,0.0,1.0,0.0
+378,CBS News,"Pope Francis delivers homily on the final day of his trip to Ireland, the first papal visit to the country in nearl… https://t.co/s3qZ4qEy9H",Sun Aug 26 13:59:30 +0000 2018,0.0,0.0,1.0,0.0
+379,CBS News,At least six children and two adults were killed in a fire inside a three-story apartment building in Chicago early… https://t.co/rLt114sLD7,Sun Aug 26 13:40:42 +0000 2018,-0.7845,0.0,0.711,0.289
+380,The New York Times,"A few of the things prosecutors say Rep. Duncan Hunter bought with campaign funds: $14,261.33 family vacation to It… https://t.co/ohnn6WTYCb",Sun Aug 26 20:20:14 +0000 2018,0.0,0.0,1.0,0.0
+381,The New York Times,"Here are 13 great titles leaving Netflix in September, including classics like ""A Star is Born"" and modern gems you… https://t.co/RnOFoD3sfN",Sun Aug 26 20:03:06 +0000 2018,0.765,0.258,0.742,0.0
+382,The New York Times,"In Opinion
+
+Author Jonathan Rauch writes, “Like it or not, inequality in today’s America drives politics toward rag… https://t.co/YBVezMkom2",Sun Aug 26 19:50:03 +0000 2018,0.0,0.0,1.0,0.0
+383,The New York Times,"Multiple people are dead after a gunman started firing during a video gaming tournament in Jacksonville, Florida, a… https://t.co/m5ErhC8tHC",Sun Aug 26 19:36:09 +0000 2018,-0.7717,0.0,0.691,0.309
+384,The New York Times,Residents of the village with the smallest population in Switzerland wonder if nostalgic tourists and hikers attrac… https://t.co/AWI8LgFFWk,Sun Aug 26 19:31:38 +0000 2018,0.0,0.0,1.0,0.0
+385,The New York Times,The current home of the U.S. Open started out as a derelict relic of the 1964 World's Fair. Now it's a state-of-the… https://t.co/J5LAJZAnOd,Sun Aug 26 19:16:14 +0000 2018,0.3182,0.103,0.897,0.0
+386,The New York Times,RT @NYTSports: U.S. Open players — and fans — share their favorite memories from the tournament https://t.co/fsF9v6LDN6 https://t.co/bYSdG9…,Sun Aug 26 19:00:16 +0000 2018,0.6369,0.271,0.729,0.0
+387,The New York Times,Authorities report a mass shooting at a Florida bar that was hosting a live-streamed video gaming tournament. https://t.co/suuG1i7rUk,Sun Aug 26 18:50:54 +0000 2018,0.0,0.0,1.0,0.0
+388,The New York Times,"Almost everyone involved in Job Corps questions whether it's living up to its ideals, with an outdated program mode… https://t.co/6nZ9k9akzB",Sun Aug 26 18:45:04 +0000 2018,0.2023,0.087,0.913,0.0
+389,The New York Times,Arizona might be the only state that makes first-time possession of a small amount of marijuana a felony. In order… https://t.co/pXZYH93hlR,Sun Aug 26 18:30:04 +0000 2018,-0.5423,0.0,0.837,0.163
+390,The New York Times,"RT @NYTSports: Serena Williams said she had a chat with the man who wants to control her wardrobe at the French Open. 
+ https://t.co/0MOIN6…",Sun Aug 26 18:15:06 +0000 2018,0.0,0.0,1.0,0.0
+391,The New York Times,"Neil Simon helped define American humor in plays, movies, and TV. His works also played significantly in the career… https://t.co/qdlu4o1620",Sun Aug 26 18:00:04 +0000 2018,0.6705,0.277,0.723,0.0
+392,The New York Times,"RT @nytimesbusiness: ""Silence is criminal these days,"" says Chobani's Hamdi Ulukaya, known for his hiring of refugees to help in their rese…",Sun Aug 26 17:45:07 +0000 2018,-0.1779,0.103,0.766,0.13
+393,The New York Times,"Brands want to talk to young people without condescending to them. These consulting firms, staffed by 14- to 22-yea… https://t.co/ICItLMbXt2",Sun Aug 26 17:30:05 +0000 2018,0.0772,0.064,0.936,0.0
+394,The New York Times,"From ""The Odd Couple"" to ""Lost in Yonkers"", here's how New York Times reviewers saw Neil Simon's work through the d… https://t.co/8ZFAdka2fP",Sun Aug 26 17:15:05 +0000 2018,-0.5574,0.0,0.813,0.187
+395,The New York Times,"A popular Chinese ride-sharing app, Didi Chuxing, suspends its carpooling service after 2 female passengers were ki… https://t.co/PRExKxq50r",Sun Aug 26 17:01:02 +0000 2018,0.4215,0.157,0.843,0.0
+396,The New York Times,"RT @nytimesworld: While the police struggle to exert authority in a hippie commune in Copenhagen, the elders can expel those who violate lo…",Sun Aug 26 16:45:05 +0000 2018,-0.7964,0.047,0.65,0.303
+397,The New York Times,"A migrant smuggler's ""stash house"" may be a motel room, or an apartment, or a trailer. But it is always part of a b… https://t.co/BHgtIaUuLp",Sun Aug 26 16:30:09 +0000 2018,0.0,0.0,1.0,0.0
+398,The New York Times,Most busy commuters aren't going to drive all 100 miles of New York State Route 25. But here's what they'd see and… https://t.co/QAtdf2uE0R,Sun Aug 26 16:15:07 +0000 2018,0.0,0.0,1.0,0.0
+399,The New York Times,"In @nytopinion,
+Op-Ed columnist @NickKristof writes, ""In the courage-free zone known as Congress, McCain showed tha… https://t.co/Ru38tkZf5p",Sun Aug 26 16:00:14 +0000 2018,0.0,0.0,1.0,0.0
+400,Fox News,Law enforcement officials in Florida hold a press conference on the fatal shooting at a video game tournament in Ja… https://t.co/HMHGLhuAes,Sun Aug 26 23:26:18 +0000 2018,-0.5423,0.0,0.837,0.163
+401,Fox News,"Jon Kyl on @SenJohnMcCain: ""John's entire approach to life was we want to get the most out of the time that we have… https://t.co/Kv6imy5TFe",Sun Aug 26 23:25:23 +0000 2018,0.0772,0.053,0.947,0.0
+402,Fox News,".@KellyAyotte on @SenJohnMcCain: ""I had the privilege of seeing him at the ranch this spring and what he said to me… https://t.co/qucQ5lEadF",Sun Aug 26 23:16:22 +0000 2018,0.3612,0.106,0.894,0.0
+403,Fox News,".@KellyAyotte on @SenJohnMcCain: ""I remember John for his courage, his tenacity and his wonderful sense of humor.""… https://t.co/F99ycWqUM3",Sun Aug 26 23:07:55 +0000 2018,0.7845,0.301,0.699,0.0
+404,Fox News,DNC votes to limit influence of superdelegates in presidential nominating process https://t.co/g72vujIP4S https://t.co/ii6U6U1tOr,Sun Aug 26 22:59:42 +0000 2018,0.0,0.0,1.0,0.0
+405,Fox News,"Earlier, @SenSchumer tweeted in response to the fatal shooting at a video game tournament in Jacksonville, Fla.… https://t.co/PCEMrwItst",Sun Aug 26 22:55:49 +0000 2018,-0.5423,0.0,0.821,0.179
+406,Fox News,"Canadian man's body found by mom, friend in Bavarian Alps weeks after going missing, family says https://t.co/TkPU9jAhm1",Sun Aug 26 22:50:25 +0000 2018,0.25,0.157,0.735,0.108
+407,Fox News,Kaine worries progressives with reluctance to confirm 'no' vote on Kavanaugh https://t.co/xlPwUXwBJD,Sun Aug 26 22:43:00 +0000 2018,-0.6369,0.0,0.658,0.342
+408,Fox News,".@GiannoCaldwell: ""John McCain wasn't simply a war hero. He was my hero politically."" https://t.co/PBOonOrYo9 https://t.co/ZBDlaCaXtg",Sun Aug 26 22:37:00 +0000 2018,-0.4023,0.157,0.55,0.292
+409,Fox News,".@Johnny_Joey: ""There's a difference between surviving and thriving, and Sen. McCain showed me that the latter is m… https://t.co/TEchajXEqg",Sun Aug 26 22:30:17 +0000 2018,0.296,0.115,0.885,0.0
+410,Fox News,Capitol Hill is reacting to the passing of @SenJohnMcCain; @MikeEmanuelFox reports. https://t.co/RgHW7xkTVK https://t.co/a4qao3w0cV,Sun Aug 26 22:22:02 +0000 2018,0.0,0.0,1.0,0.0
+411,Fox News,"The Coast Guard patrols the St. Johns River outside of the Jacksonville Landing in Jacksonville, Fla., following th… https://t.co/ykpKddQngl",Sun Aug 26 22:16:00 +0000 2018,0.0,0.0,1.0,0.0
+412,Fox News,"Multiple people are dead following a shooting at a Madden video game tournament in Jacksonville, Fla. @BryanLlenas… https://t.co/zC7NBp2KI6",Sun Aug 26 22:07:27 +0000 2018,-0.6486,0.0,0.777,0.223
+413,Fox News,"Multiple people killed in shooting at video game tournament in Jacksonville, Fla. https://t.co/xOJYsFlQ5r https://t.co/NNq8lEWYrm",Sun Aug 26 22:02:18 +0000 2018,-0.6705,0.0,0.743,0.257
+414,Fox News,"Moments ago, @GabbyGiffords released a statement on the fatal shooting at a video game tournament in Jacksonville,… https://t.co/AQ4Ka23Yn1",Sun Aug 26 22:01:10 +0000 2018,-0.5423,0.0,0.811,0.189
+415,Fox News,.@GovMikeHuckabee remembers Sen. John McCain. https://t.co/jIQnO6Dsya https://t.co/lgmDwb0US8,Sun Aug 26 21:57:29 +0000 2018,0.0,0.0,1.0,0.0
+416,Fox News,Hawaii shuts out South Korea to win Little League World Series title https://t.co/t53ejEfBkV,Sun Aug 26 21:50:00 +0000 2018,0.5859,0.241,0.759,0.0
+417,Fox News,RT @FoxBusiness: Would the market crash if Trump were impeached?  https://t.co/7oAEofvVuT,Sun Aug 26 21:47:20 +0000 2018,-0.4019,0.0,0.787,0.213
+418,Fox News,"Moments ago, @FLGovScott tweeted that he was on his way to Jacksonville to meet with local law enforcement official… https://t.co/dt90mzW7OU",Sun Aug 26 21:45:03 +0000 2018,0.0,0.0,1.0,0.0
+419,Fox News,"Two linked to 'extremist Muslim' New Mexico compound wanted to attack hospital, prosecutors say https://t.co/tIsK21C6bB",Sun Aug 26 21:40:21 +0000 2018,-0.4767,0.0,0.819,0.181
+420,CNN,"""It's tough to imagine politics without John McCain. But we need to go on."" Arizona Sen. Jeff Flake tears up when d… https://t.co/9ewGKrsODF",Sun Aug 26 15:15:10 +0000 2018,-0.3818,0.0,0.854,0.146
+421,CNN,"After more than a century, the iconic Barnum's Animal Crackers box has gotten a redesign. Instead of animals caged… https://t.co/sKxHv3Filk",Sun Aug 26 15:01:04 +0000 2018,0.0,0.0,1.0,0.0
+422,CNN,"Mark McKinnon, a former adviser to John McCain, remembers how McCain would need help with combing his hair before c… https://t.co/sxFvErVs2X",Sun Aug 26 14:49:06 +0000 2018,0.4019,0.124,0.876,0.0
+423,CNN,Sen. Chuck Schumer wants a Senate building named for the late Sen. John McCain https://t.co/H1R9hIKDRz https://t.co/EoY55zPvN2,Sun Aug 26 14:46:05 +0000 2018,0.0,0.0,1.0,0.0
+424,CNN,How the still-unsolved Tylenol murders changed packaging of consumer products https://t.co/wLBwUisTO4 https://t.co/iKbyecKRjF,Sun Aug 26 14:31:04 +0000 2018,-0.6124,0.0,0.733,0.267
+425,CNN,"""It was just an honor to be in his presence"": Democratic Rep. Adam Schiff remembers John McCain #CNNSOTU… https://t.co/Jh3s3FDX3c",Sun Aug 26 14:24:00 +0000 2018,0.4939,0.151,0.849,0.0
+426,CNN,"Former Sen. Kelly Ayotte on her friend and mentor Sen. John McCain: “Obviously he’s tough as nails, incredibly brig… https://t.co/eLP41sfpEB",Sun Aug 26 14:16:20 +0000 2018,0.4019,0.141,0.793,0.066
+427,CNN,The absolutely remarkable life of John McCain | Analysis by @CillizzaCNN https://t.co/HT81veYwKq https://t.co/K3ZudVJ5BG,Sun Aug 26 14:16:06 +0000 2018,0.5984,0.261,0.739,0.0
+428,CNN,"Former Sen. Kelly Ayotte on her friend and mentor Sen. John McCain: “Obviously he’s tough as nails, incredibly brig… https://t.co/RcXwsLx5fy",Sun Aug 26 14:15:48 +0000 2018,0.4019,0.141,0.793,0.066
+429,CNN,".@jaketapper's last interview with Sen. John McCain in 2017: ""How do you want the American people to remember you?""… https://t.co/eA03vjiVM4",Sun Aug 26 14:03:48 +0000 2018,0.0772,0.064,0.936,0.0
+430,CNN,"Reduced to just their facades, the buildings in Zacharie Gaudrillot-Roy's photographs take on a surreal new quality… https://t.co/K84hSQKDeM",Sun Aug 26 14:01:00 +0000 2018,0.0,0.0,1.0,0.0
+431,CNN,"After more than 30 years in the Senate, John McCain has died. He was a politician unlike any other.… https://t.co/P3ipC9gNya",Sun Aug 26 13:46:56 +0000 2018,-0.5574,0.0,0.833,0.167
+432,CNN,"Sen. Jeff Flake remembers John McCain’s deciding vote on the health care bill last year: “It was John, through and… https://t.co/2bK8xTQkcB",Sun Aug 26 13:43:18 +0000 2018,0.4939,0.138,0.862,0.0
+433,CNN,"This family has been traveling the globe by sailboat for a decade, homeschooling their children and seeing the worl… https://t.co/aJDV47Teaz",Sun Aug 26 13:31:00 +0000 2018,0.0,0.0,1.0,0.0
+434,CNN,"“What the American people should know was that John McCain was a true patriot. A man who loved his country, who wou… https://t.co/qAyryCN4Lt",Sun Aug 26 13:30:49 +0000 2018,0.7717,0.261,0.739,0.0
+435,CNN,“I’m going to miss him … It’s tough to imagine a Senate without him. It’s tough to imagine politics without John Mc… https://t.co/BX9NfNZgJ7,Sun Aug 26 13:30:07 +0000 2018,-0.3818,0.0,0.796,0.204
+436,CNN,"Sen. Jeff Flake remembers John McCain: “It’s tough to have a voice like that silenced. But this voice for civility,… https://t.co/FRYbmFa5On",Sun Aug 26 13:25:17 +0000 2018,0.128,0.083,0.857,0.06
+437,CNN,"Former President Barack Obama remembered Sen. John McCain's dedication to the nation.
+
+""We saw this country as a pl… https://t.co/SynkuVVxOd",Sun Aug 26 13:16:03 +0000 2018,0.0,0.0,1.0,0.0
+438,CNN,"French Montana and Adam Levine released a ""Famous"" remix to raise money for an underfunded maternity and children's… https://t.co/XE9ltiwKEW",Sun Aug 26 13:01:04 +0000 2018,0.0,0.0,1.0,0.0
+439,CNN,What it tells us that John McCain drank vodka with Hillary Clinton | By Timothy Stanley via @CNNOpinion… https://t.co/yoOYpOIMk9,Sun Aug 26 12:46:08 +0000 2018,0.0,0.0,1.0,0.0
+440,BBC News (World),"RT @BBCSport: This man disrespected himself, his wife, the fans and me.""
+
+Boxer Curtis Harper walked out of the ring immediately after the…",Sat Aug 25 11:13:10 +0000 2018,-0.4588,0.0,0.88,0.12
+441,BBC News (World),"RT @BBCWorld: ""I still feel she's going to come back to me""
+
+A mother's heartbreak after her daughter was killed in the Kerala floods https…",Sat Aug 25 11:00:40 +0000 2018,-0.8481,0.0,0.728,0.272
+442,BBC News (World),"""I still feel she's going to come back to me""
+
+A mother's heartbreak after her daughter was killed in the Kerala fl… https://t.co/bIZNZLQPHC",Sat Aug 25 11:00:25 +0000 2018,-0.8481,0.0,0.709,0.291
+443,BBC News (World),"Rohingya girls in danger: Teenage bride, missing daughter, sex worker 
+
+Warning: upsetting content… https://t.co/0MlbyEdQcx",Sat Aug 25 10:35:50 +0000 2018,-0.8779,0.0,0.474,0.526
+444,BBC News (World),Rohingya refugees protest Myanmar crackdown anniversary https://t.co/qVVD3XJRQs,Sat Aug 25 10:20:24 +0000 2018,-0.25,0.0,0.75,0.25
+445,BBC News (World),Prince death: Singer's family sues doctor over opioid addiction https://t.co/Nuwxv4zcsz,Sat Aug 25 10:17:01 +0000 2018,-0.5994,0.0,0.698,0.302
+446,BBC News (World),"Pope Francis begins first papal visit to Ireland in nearly 40 years
+
+Follow live reporting: https://t.co/Y43EdhzsNI… https://t.co/ykRXUbIcl1",Sat Aug 25 09:52:35 +0000 2018,0.0,0.0,1.0,0.0
+447,BBC News (World),"RT @BBCBreaking: Pope Francis lands in Ireland
+
+Follow live reporting: https://t.co/ASSLPyq5B9 #PopeInIreland",Sat Aug 25 09:31:06 +0000 2018,0.0,0.0,1.0,0.0
+448,BBC News (World),"How Ireland has changed since the last papal visit in 1979
+
+Follow live reporting: https://t.co/Y43EdhR4ci… https://t.co/NQrawaWfTr",Sat Aug 25 09:14:58 +0000 2018,0.0,0.0,1.0,0.0
+449,BBC News (World),"Alan ""Bud"" Jackson dies after Isle of Man crash https://t.co/nIF9FCIq2R",Sat Aug 25 08:55:24 +0000 2018,-0.4019,0.0,0.769,0.231
+450,BBC News (World),RT @BBCNewsNI: Pope Francis in en route to Dublin. The plane bringing @Pontifex to Ireland left Rome about an hour ago #PopeInIreland https…,Sat Aug 25 07:55:21 +0000 2018,0.0,0.0,1.0,0.0
+451,BBC News (World),RT @BBCNews: Elon Musk will no longer take Tesla private https://t.co/Ank9PMrWxK,Sat Aug 25 07:40:02 +0000 2018,-0.296,0.0,0.82,0.18
+452,BBC News (World),RT @BBCNews: Egypt hotel deaths: British holidaymakers flown back to UK https://t.co/Zrb1Gi4GOS,Sat Aug 25 07:39:53 +0000 2018,0.0,0.0,1.0,0.0
+453,BBC News (World),RT @BBCNews: Christina Carlin-Kraft: Former Playboy model found dead in Pennsylvania home https://t.co/czc8huhzh2,Sat Aug 25 07:39:41 +0000 2018,-0.6486,0.0,0.736,0.264
+454,BBC News (World),RT @BBCNews: My first week as a BBC Venezuela correspondent https://t.co/Czti9gLKXU,Sat Aug 25 07:39:17 +0000 2018,0.0,0.0,1.0,0.0
+455,BBC News (World),"RT @MartinBashir: Boarding Shepherd One, the Papal plane, from Rome to Dublin ⁦@Pontifex⁩ ⁦⁦@BBCNews⁩ https://t.co/6TfX3HRuOZ",Sat Aug 25 07:03:01 +0000 2018,0.0,0.0,1.0,0.0
+456,BBC News (World),Jean-Pierre Bemba 'cannot run for DRC president' https://t.co/rYeAtB6S1t,Sat Aug 25 03:44:27 +0000 2018,0.0,0.0,1.0,0.0
+457,BBC News (World),Venezuela nears 'Mediterranean crisis point' https://t.co/rIzSPBixVK,Sat Aug 25 00:24:32 +0000 2018,-0.6249,0.0,0.549,0.451
+458,BBC News (World),Obituary: Chicha Mariani and the 42-year search for her grandchild https://t.co/aGKIkVhjKA,Fri Aug 24 23:24:11 +0000 2018,0.0,0.0,1.0,0.0
+459,BBC News (World),Uganda's Bobi Wine crisis: The president and the pop star https://t.co/eKg6cHUPZz,Fri Aug 24 23:21:22 +0000 2018,-0.6249,0.0,0.709,0.291
+460,CBS News,One of a kind: The remarkable life and times of Senator John McCain https://t.co/3yAf2NXea7 https://t.co/VjVMtY15Pr,Sun Aug 26 13:24:41 +0000 2018,0.7906,0.368,0.632,0.0
+461,CBS News,"RT @CBSSunday: John McCain, the military hero who had a long career as a ""maverick"" Republican senator, has died, his Senate office confirm…",Sun Aug 26 13:15:22 +0000 2018,0.0,0.137,0.725,0.137
+462,CBS News,"""America and Freedom have lost one of her greatest champions ... And I've lost one of my dearest friends and mentor… https://t.co/V3whFTVVMG",Sun Aug 26 13:00:38 +0000 2018,0.9423,0.486,0.394,0.121
+463,CBS News,"John McCain saw himself, like his hero Teddy Roosevelt, as ""the man in the arena"" https://t.co/hB4ENNEcW6 https://t.co/6rXnNz486b",Sun Aug 26 12:00:30 +0000 2018,0.7269,0.289,0.711,0.0
+464,CBS News,"""I've had the best life anybody could have ever known. And I want to celebrate my life,"" John McCain said in his fi… https://t.co/CjLtRwx2DD",Sun Aug 26 11:00:32 +0000 2018,0.8481,0.315,0.685,0.0
+465,CBS News,"John McCain -- senator, military hero and maverick -- has died at 81 https://t.co/DGakRBXBW7 https://t.co/NbpDsKmrJd",Sun Aug 26 10:00:50 +0000 2018,0.0,0.178,0.644,0.178
+466,CBS News,"The life of John McCain, in pictures https://t.co/fLDfZ4HGBG https://t.co/CaGobhR4xP",Sun Aug 26 09:00:50 +0000 2018,0.0,0.0,1.0,0.0
+467,CBS News,Senators John McCain and Ted Kennedy were the closest of friends https://t.co/aOKlhiGi7n https://t.co/VrBz6JElH9,Sun Aug 26 08:00:47 +0000 2018,0.4767,0.205,0.795,0.0
+468,CBS News,"""In the end, it matters less that you can fight. What you fight for is the real test."" The greatest quotes from Joh… https://t.co/OaJzZUhFLl",Sun Aug 26 07:00:30 +0000 2018,0.0258,0.174,0.656,0.17
+469,CBS News,A look at the last moments @60Minutes shared with John McCain https://t.co/l8I8RmqyDH https://t.co/7byaKVMjRX,Sun Aug 26 06:01:01 +0000 2018,0.34,0.179,0.821,0.0
+470,CBS News,Arizona Gov. Doug Ducey will select a replacement for John McCain to serve in the Senate until the 2020 election… https://t.co/x7xv3vmL8S,Sun Aug 26 05:00:42 +0000 2018,0.0,0.0,1.0,0.0
+471,CBS News,Former Vatican official claims Pope Francis knew of abusive priest and calls for his resignation… https://t.co/ABRCWIbuLf,Sun Aug 26 04:54:30 +0000 2018,-0.6369,0.0,0.781,0.219
+472,CBS News,McCain requested Obama and George W. Bush deliver eulogies at funeral https://t.co/mPGFBxKE1Y https://t.co/OAbdbrbSt4,Sun Aug 26 04:45:37 +0000 2018,-0.3612,0.0,0.828,0.172
+473,CBS News,"John McCain's death drew heartfelt tributes from former presidents, with Barack Obama saying they shared ""the ideal… https://t.co/JTaSk34uNe",Sun Aug 26 04:11:52 +0000 2018,0.25,0.238,0.605,0.157
+474,CBS News,"Watch the @60Minutes report ""John McCain: The Fighter,"" featuring @LesleyRStahl  https://t.co/lIB33Oy75L https://t.co/peuaGTRHLY",Sun Aug 26 03:00:31 +0000 2018,0.0,0.0,1.0,0.0
+475,CBS News,"Sen. Lindsey Graham called John McCain ""one of my dearest friends."" They shared a long and storied bond https://t.co/bBJ1k8ikjJ",Sun Aug 26 02:09:51 +0000 2018,0.7184,0.273,0.727,0.0
+476,CBS News,BREAKING: Senator John McCain has passed away after a battle with brain cancer. Take a look back at the life of the… https://t.co/RruHbZJZFs,Sun Aug 26 01:34:23 +0000 2018,-0.7906,0.0,0.731,0.269
+477,CBS News,7 arrested as protesters gather after Confederate monument toppled https://t.co/uzRUMirc0u https://t.co/nKkYP6SNuJ,Sun Aug 26 01:33:04 +0000 2018,-0.6124,0.0,0.615,0.385
+478,CBS News,The lasting friendship of John McCain and Lindsey Graham https://t.co/Slt5DQ3aDt https://t.co/bryzYHbvdi,Sun Aug 26 01:28:07 +0000 2018,0.4404,0.225,0.775,0.0
+479,CBS News,Big oil asks government to protect its Texas facilities from climate change https://t.co/hE8hXxWpj0 https://t.co/4UmKKdtGMq,Sun Aug 26 01:18:04 +0000 2018,0.3818,0.167,0.833,0.0
+480,The New York Times,"Breaking News: The playwright Neil Simon died at 91. He was a master of Broadway comedy and beyond with hits like ""… https://t.co/km0VlqQu0L",Sun Aug 26 15:57:23 +0000 2018,0.1027,0.181,0.688,0.13
+481,The New York Times,"""A great statesman."" ""A skilled, tough politician."" ""A patriot of the highest order."" World leaders react to the de… https://t.co/H1TR2RTuAd",Sun Aug 26 15:50:02 +0000 2018,0.5574,0.174,0.763,0.064
+482,The New York Times,"From a prisoner of war in Vietnam to his runs for president and opposition to Trump, these were key moments of John… https://t.co/5hkg1CSpTX",Sun Aug 26 15:45:05 +0000 2018,-0.8126,0.0,0.73,0.27
+483,The New York Times,"In @nytopinion,
+Op-Ed contributor Adam Grant writes, ""Although it's often said that those who can't do teach, the r… https://t.co/HsjIpkEsb3",Sun Aug 26 15:31:05 +0000 2018,0.3612,0.116,0.884,0.0
+484,The New York Times,"In Opinion
+
+Op-Ed contributor Naka Nathaniel writes, ""Last Sunday, I did something that no properly raised Catholic… https://t.co/U34ari5cgM",Sun Aug 26 15:20:04 +0000 2018,-0.296,0.0,0.879,0.121
+485,The New York Times,RT @nytpolitics: Reporters and editors at The New York Times had a backstage view of John McCain’s 35 years in Washington as a member of th…,Sun Aug 26 15:15:07 +0000 2018,0.0,0.0,1.0,0.0
+486,The New York Times,"Finland, Norway, Denmark, Iceland and Sweden regularly rank among the happiest countries in the world. But that doe… https://t.co/NSBI67F8Ce",Sun Aug 26 15:00:07 +0000 2018,0.3818,0.126,0.874,0.0
+487,The New York Times,"The median survival term for glioblastoma, which John McCain learned he had last summer, is 12 to 18 months https://t.co/Y7OXj6h6eM",Sun Aug 26 14:45:05 +0000 2018,0.0,0.0,1.0,0.0
+488,The New York Times,"Republican ads show scenes of a violent, anarchic dystopia that they say would result if Democrats take power in Co… https://t.co/s1OjtMuDaX",Sun Aug 26 14:30:07 +0000 2018,-0.5994,0.0,0.83,0.17
+489,The New York Times,"Breaking News: An archbishop claimed that Pope Francis was complicit in covering up abuses by a U.S. prelate, cloud… https://t.co/FpfPTrEXtO",Sun Aug 26 14:17:29 +0000 2018,-0.5574,0.0,0.833,0.167
+490,The New York Times,"RT @nytimesworld: Follow our live updates as the pope wraps up his visit to Ireland, with activists calling for concrete action to stamp ou…",Sun Aug 26 14:15:04 +0000 2018,0.0,0.0,1.0,0.0
+491,The New York Times,"“Being among old growth trees feels as sacred as any cathedral.” Inspired by a poem, @rfremson immersed herself in… https://t.co/Y4uAoxcugI",Sun Aug 26 14:10:02 +0000 2018,0.7003,0.254,0.746,0.0
+492,The New York Times,"In his decision to keep Tesla public, Elon Musk cited 4 key factors that ultimately changed his mind. https://t.co/CKcndfVorb",Sun Aug 26 14:00:05 +0000 2018,0.0,0.0,1.0,0.0
+493,The New York Times,"In @NYTOpinion, 
+Op-Ed contributor Anand Giridharadas writes, ""Even as they give back, American elites generally se… https://t.co/Ur5gKedMtm",Sun Aug 26 13:45:09 +0000 2018,0.0,0.0,1.0,0.0
+494,The New York Times,"John McCain will be the 13th former senator to lie in state at the Capitol Rotunda, and will  have a full dress fun… https://t.co/CwKEjXQ8XV",Sun Aug 26 13:30:35 +0000 2018,0.0,0.0,1.0,0.0
+495,The New York Times,"A Single Road With Many Names, Traversing Many Worlds https://t.co/BiGNmox7js",Sun Aug 26 13:14:25 +0000 2018,0.0,0.0,1.0,0.0
+496,The New York Times,"RT @nytopinion: ""We are a country with a conscience. ... Our values are our strength and greatest treasure."" — John McCain in 2017 https://…",Sun Aug 26 13:05:05 +0000 2018,0.8779,0.359,0.641,0.0
+497,The New York Times,Police in Turkey Break Up Mothers’ Weekly Vigil https://t.co/vbbwMeDRFm,Sun Aug 26 12:55:21 +0000 2018,0.0,0.0,1.0,0.0
+498,The New York Times,"A new psychological approach targets anxiety, PTSD and other mental disorders with concentrated, intensive therapy https://t.co/ChXvsSDBqD",Sun Aug 26 12:38:02 +0000 2018,-0.1779,0.0,0.892,0.108
+499,The New York Times,"""The Happytime Murders"" and ""Puppet Master: The Littlest Reich"" both have puppet casts, but you'd better leave your… https://t.co/i2rUBLMuGn",Sun Aug 26 12:21:58 +0000 2018,0.2617,0.163,0.677,0.161
